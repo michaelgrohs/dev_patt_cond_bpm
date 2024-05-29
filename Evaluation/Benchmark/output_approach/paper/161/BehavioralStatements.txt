@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Submit" occurs after "Conclude" instead of "Develop Method"
+In the model, "Review" occurs after "Submit" instead of "Submit"

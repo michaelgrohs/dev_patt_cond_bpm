@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 12" occurs after "Conclude" and before "Submit"
+In the log, "Random activity 5" occurs after "Minor Revision" and before "Revise"

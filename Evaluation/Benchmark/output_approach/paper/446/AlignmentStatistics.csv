@@ -1,0 +1,8 @@
+Average Log Alignment Statistics per Case Type:
+Raw Fitness Cost,Trace Length,Queued States,Num. States,Calculation Time (ms),#Alignments,Trace Fitness
+2.0,14.0,47.0,16.0,0.0,1.0,0.9130434782608696
+
+
+Alignment Statistics per Case:
+Num.,Case Type,Case ID,Trace Index,isReliable,Raw Fitness Cost,Trace Length,Queued States,Num. States,Calculation Time (ms),#Alignments,Trace Fitness
+1,1,2952,0,true,2.0,14.0,47.0,16.0,0.0,1.0,0.9130434782608696

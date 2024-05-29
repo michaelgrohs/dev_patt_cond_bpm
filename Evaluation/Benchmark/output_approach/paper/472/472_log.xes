@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Early" />
+		<string key="concept:name" value="3120" />
+		<int key="id" value="472" />
+		<event>
+			<string key="concept:name" value="Identify Problem" />
+			<date key="time:timestamp" value="2058-03-07T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Research Related Work" />
+			<date key="time:timestamp" value="2058-03-07T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Conduct Study" />
+			<date key="time:timestamp" value="2058-04-07T00:00:00" />
+			<string key="org:resource" value="Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Develop Hypothesis" />
+			<date key="time:timestamp" value="2058-04-07T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Experiment" />
+			<date key="time:timestamp" value="2058-05-07T00:00:00" />
+			<string key="org:resource" value="Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Conclude" />
+			<date key="time:timestamp" value="2058-05-07T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Submit" />
+			<date key="time:timestamp" value="2058-06-07T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Review" />
+			<date key="time:timestamp" value="2058-06-07T00:14:00" />
+			<string key="org:resource" value="Reviewer" />
+			<int key="id" value="472" />
+		</event>
+		<event>
+			<string key="concept:name" value="Final Decision" />
+			<date key="time:timestamp" value="2058-07-07T00:00:00" />
+			<string key="org:resource" value="Metareviewer" />
+			<int key="id" value="472" />
+		</event>
+	</trace>
+</log>

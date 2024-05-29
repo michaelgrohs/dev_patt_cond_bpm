@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Develop Hypothesis", "Experiment" is repeated while in the model it is not
+In the log, after "Experiment", "Conduct Study" is repeated while in the model it is not

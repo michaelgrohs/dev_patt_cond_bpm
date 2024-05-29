@@ -1,0 +1,5 @@
+#statements:
+3
+In the model, "Research Related Work" occurs after "Identify Problem" and before "Develop Hypothesis"
+In the model, "Develop Hypothesis" occurs after "Research Related Work" and before "Experiment"
+In the model, "Develop Method" occurs after "Research Related Work" and before "Experiment"

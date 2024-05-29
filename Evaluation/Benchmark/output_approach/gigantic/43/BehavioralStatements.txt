@@ -1,0 +1,7 @@
+#statements:
+5
+In the log, "Activity BJ" occurs after the initial state and before "Activity BN"
+In the log, "Activity BN" occurs after "Activity BJ" and before "Activity BK"
+In the log, "Activity BK" occurs after "Activity BN" and before "Activity A"
+In the model, "Activity BO" occurs after "Activity BD" and before "Activity BE"
+In the model, "Activity BP" occurs after "Activity BD" and before "Activity BE"

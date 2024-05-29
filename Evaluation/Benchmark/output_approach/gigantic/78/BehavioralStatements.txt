@@ -1,0 +1,3 @@
+#statements:
+1
+In the log, "Random activity 26" occurs after "Activity A" and before "Activity C"

@@ -1,0 +1,3 @@
+#statements:
+1
+In the log, "Random activity 56" occurs after "Activity BD" and before "Activity BJ"

@@ -1,0 +1,10 @@
+#statements:
+8
+In the log, after "Develop Method", "Identify Problem" occurs before task "Research Related Work", while in the model they are mutually exclusive after marking "[ent_element155]"
+In the log, after "Identify Problem", "Research Related Work" occurs before task "Research Related Work", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the log, after "Identify Problem", "Research Related Work" occurs before task "Develop Method", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the log, after "Research Related Work", "Develop Method" occurs before task "Develop Method", while in the model they are mutually exclusive after marking "[source]"
+In the log, after "Research Related Work", "Develop Method" occurs before task "Identify Problem", while in the model they are mutually exclusive after marking "[source]"
+In the log, after "Research Related Work", "Develop Method" occurs before task "Research Related Work", while in the model they are mutually exclusive after marking "[source]"
+In the log, after "Identify Problem", "Research Related Work" is repeated while in the model it is not
+In the log, after "Research Related Work", "Develop Method" is repeated while in the model it is not

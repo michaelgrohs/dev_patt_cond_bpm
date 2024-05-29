@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 10" occurs after the initial state and before "Identify Problem"
+In the log, "Random activity 6" occurs after "Submit" and before "Review"

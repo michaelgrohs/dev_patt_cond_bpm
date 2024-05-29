@@ -1,0 +1,5 @@
+#statements:
+3
+In the model, "Conduct Study" occurs after "Experiment" and before "Conclude"
+In the log, after "Experiment", "Conclude" occurs before task "Evaluate", while in the model they are mutually exclusive after marking "[exi_element156]"
+In the model, "Conclude" occurs after "Evaluate" instead of "Experiment"

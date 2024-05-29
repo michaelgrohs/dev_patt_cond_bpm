@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Activity BE", "Activity BR" occurs before task "Activity BQ", while in the model they are mutually exclusive after marking "[ent_element30166]"
+In the model, "Activity BR" occurs after "Activity BQ" instead of "Activity BE"

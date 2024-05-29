@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="SkipSequence" />
+		<string key="concept:name" value="1655" />
+		<int key="id" value="293" />
+		<event>
+			<string key="concept:name" value="Identify Problem" />
+			<date key="time:timestamp" value="2035-11-24T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="293" />
+		</event>
+		<event>
+			<string key="concept:name" value="Research Related Work" />
+			<date key="time:timestamp" value="2035-11-24T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="293" />
+		</event>
+		<event>
+			<string key="concept:name" value="Evaluate" />
+			<date key="time:timestamp" value="2035-11-25T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="293" />
+		</event>
+		<event>
+			<string key="concept:name" value="Conclude" />
+			<date key="time:timestamp" value="2035-11-25T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="293" />
+		</event>
+		<event>
+			<string key="concept:name" value="Submit" />
+			<date key="time:timestamp" value="2035-11-26T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="293" />
+		</event>
+		<event>
+			<string key="concept:name" value="Review" />
+			<date key="time:timestamp" value="2035-11-26T00:14:00" />
+			<string key="org:resource" value="Reviewer" />
+			<int key="id" value="293" />
+		</event>
+		<event>
+			<string key="concept:name" value="Final Decision" />
+			<date key="time:timestamp" value="2035-11-27T00:00:00" />
+			<string key="org:resource" value="Metareviewer" />
+			<int key="id" value="293" />
+		</event>
+	</trace>
+</log>

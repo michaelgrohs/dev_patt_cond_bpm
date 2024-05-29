@@ -1,0 +1,6 @@
+#statements:
+4
+In the log, "Activity L" occurs after the initial state and before "Activity P"
+In the log, "Activity P" occurs after "Activity L" and before "Activity M"
+In the log, "Activity M" occurs after "Activity P" and before "Activity A"
+In the model, "Activity R" occurs after "Activity C" and before "Activity D"

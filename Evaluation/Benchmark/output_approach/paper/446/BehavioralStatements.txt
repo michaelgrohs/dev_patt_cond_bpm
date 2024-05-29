@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 3" occurs after "Experiment" and before "Evaluate"
+In the log, "Random activity 7" occurs after "Review" and before "Minor Revision"

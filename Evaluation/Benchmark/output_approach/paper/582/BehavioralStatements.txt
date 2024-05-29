@@ -1,0 +1,9 @@
+#statements:
+7
+In the log, after "Develop Hypothesis", "Experiment" occurs before task "Conduct Study", while in the model they are mutually exclusive after marking "[ent_element155]"
+In the log, after "Experiment", "Conduct Study" occurs before task "Conduct Study", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the log, after "Experiment", "Conduct Study" occurs before task "Develop Hypothesis", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the log, after "Experiment", "Conduct Study" occurs before task "Experiment", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the log, after "Research Related Work", "Develop Hypothesis" is repeated while in the model it is not
+In the log, after "Develop Hypothesis", "Experiment" is repeated while in the model it is not
+In the log, after "Experiment", "Conduct Study" is repeated while in the model it is not

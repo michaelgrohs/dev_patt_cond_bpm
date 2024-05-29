@@ -1,0 +1,9 @@
+#statements:
+7
+In the log, after "Evaluate", "Conclude" occurs before task "Develop Method", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the log, after "Evaluate", "Conclude" occurs before task "Experiment", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the model, "Develop Hypothesis" occurs after "Research Related Work" and before "Experiment"
+In the model, "Evaluate" occurs after "Experiment" instead of "Research Related Work"
+In the model, "Conclude" occurs after "Evaluate" instead of "Evaluate"
+In the model, "Conclude" occurs after "Conduct Study" instead of "Evaluate"
+In the model, "Conduct Study" occurs after "Experiment" and before "Conclude"

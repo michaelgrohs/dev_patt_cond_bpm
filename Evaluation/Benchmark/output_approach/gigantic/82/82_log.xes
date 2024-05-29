@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Rework" />
+		<string key="concept:name" value="468" />
+		<int key="id" value="82" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-03-01T18:30:00" />
+			<string key="org:resource" value="Seth" />
+			<int key="id" value="82" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity BC" />
+			<date key="time:timestamp" value="2010-03-01T18:31:00" />
+			<string key="org:resource" value="Micheline" />
+			<int key="id" value="82" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-03-01T18:33:00" />
+			<string key="org:resource" value="Tiffiny" />
+			<int key="id" value="82" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity BC" />
+			<date key="time:timestamp" value="2010-03-01T18:34:00" />
+			<string key="org:resource" value="Micheline" />
+			<int key="id" value="82" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-03-01T18:36:00" />
+			<string key="org:resource" value="Tiffiny" />
+			<int key="id" value="82" />
+		</event>
+	</trace>
+</log>

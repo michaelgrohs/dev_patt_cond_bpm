@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Activity BI" occurs after "Activity BH" and before "Activity BE"
+In the model, "Activity BE" occurs after "Activity BI" and before "Activity BQ"

@@ -1,0 +1,6 @@
+#statements:
+4
+In the model, "Develop Hypothesis" occurs after "Research Related Work" and before "Experiment"
+In the model, "Experiment" occurs after "Develop Hypothesis" and before "Evaluate"
+In the model, "Develop Method" occurs after "Research Related Work" and before "Experiment"
+In the model, "Experiment" occurs after "Develop Method" and before "Evaluate"

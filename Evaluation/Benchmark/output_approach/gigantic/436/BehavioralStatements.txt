@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, after "Activity L", "Activity N" is repeated while in the model it is not
+In the log, after "Activity N", "Activity M" is repeated while in the model it is not
+In the log, after "Activity M", "Activity D" is repeated while in the model it is not

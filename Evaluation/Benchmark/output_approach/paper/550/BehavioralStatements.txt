@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Review" occurs after "Submit" instead of "Develop Method"
+In the model, "Minor Revision" occurs after "Review" instead of "Review"

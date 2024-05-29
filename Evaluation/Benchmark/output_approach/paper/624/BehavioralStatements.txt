@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 8" occurs after "Develop Method" and before "Experiment"
+In the log, "Random activity 8" occurs after "Minor Revision" and before "Experiment"

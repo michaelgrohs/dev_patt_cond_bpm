@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="3461" />
+		<int key="id" value="511" />
+		<event>
+			<string key="concept:name" value="Identify Problem" />
+			<date key="time:timestamp" value="2063-01-10T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Research Related Work" />
+			<date key="time:timestamp" value="2063-01-10T00:14:00" />
+			<string key="org:resource" value="Student" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Develop Method" />
+			<date key="time:timestamp" value="2063-02-10T00:00:00" />
+			<string key="org:resource" value="Student" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Experiment" />
+			<date key="time:timestamp" value="2063-02-10T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 4" />
+			<date key="time:timestamp" value="2063-03-10T00:00:00" />
+			<string key="org:resource" value="Random user 1" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Evaluate" />
+			<date key="time:timestamp" value="2063-03-10T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 2" />
+			<date key="time:timestamp" value="2063-04-10T00:00:00" />
+			<string key="org:resource" value="Random user 1" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Conclude" />
+			<date key="time:timestamp" value="2063-04-10T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Submit" />
+			<date key="time:timestamp" value="2063-05-10T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Review" />
+			<date key="time:timestamp" value="2063-05-10T00:14:00" />
+			<string key="org:resource" value="Reviewer" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Minor Revision" />
+			<date key="time:timestamp" value="2063-06-10T00:00:00" />
+			<string key="org:resource" value="Metareviewer" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Revise" />
+			<date key="time:timestamp" value="2063-06-10T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Submit" />
+			<date key="time:timestamp" value="2063-07-10T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="511" />
+		</event>
+		<event>
+			<string key="concept:name" value="Final Decision" />
+			<date key="time:timestamp" value="2063-07-10T00:14:00" />
+			<string key="org:resource" value="Metareviewer" />
+			<int key="id" value="511" />
+		</event>
+	</trace>
+</log>

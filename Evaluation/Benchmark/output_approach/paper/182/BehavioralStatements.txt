@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Conclude" occurs after "Conduct Study" instead of "Identify Problem"
+In the model, "Submit" occurs after "Conclude" instead of "Conclude"

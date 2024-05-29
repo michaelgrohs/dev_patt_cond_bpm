@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 8" occurs after "Experiment" and before "Conduct Study"
+In the log, "Random activity 1" occurs after "Conduct Study" and before "Conclude"

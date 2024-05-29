@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 8" occurs after the initial state and before "Identify Problem"
+In the log, "Random activity 9" occurs after "Minor Revision" and before "Revise"

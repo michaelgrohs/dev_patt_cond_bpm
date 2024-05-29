@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Conclude", "Review" occurs before task "Submit", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the model, "Review" occurs after "Submit" instead of "Conclude"

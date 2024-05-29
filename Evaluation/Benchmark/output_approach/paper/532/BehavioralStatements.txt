@@ -1,0 +1,14 @@
+#statements:
+12
+In the log, after "Minor Revision", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element149]"
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Submit", "Review" occurs before task "Minor Revision", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Conclude", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Review", "Minor Revision" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Review", "Minor Revision" occurs before task "Submit", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Minor Revision", "Submit" occurs before task "Submit", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Minor Revision", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Submit", "Review" is repeated while in the model it is not
+In the log, after "Review", "Minor Revision" is repeated while in the model it is not
+In the log, after "Conclude", "Submit" is repeated while in the model it is not

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 4" occurs after "Identify Problem" and before "Research Related Work"
+In the log, "Random activity 8" occurs after "Revise" and before "Final Decision"

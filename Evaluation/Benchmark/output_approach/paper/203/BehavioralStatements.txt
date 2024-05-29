@@ -1,0 +1,11 @@
+#statements:
+9
+In the log, after "Minor Revision", "Revise" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element149]"
+In the log, after "Revise", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Revise", "Review" occurs before task "Minor Revision", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Review", "Minor Revision" occurs before task "Revise", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Minor Revision", "Revise" occurs before task "Revise", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Revise", "Review" occurs before task "Revise", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Submit", "Review" is repeated while in the model it is not
+In the log, after "Review", "Minor Revision" is repeated while in the model it is not
+In the log, after "Minor Revision", "Revise" is repeated while in the model it is not

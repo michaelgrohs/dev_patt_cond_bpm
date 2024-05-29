@@ -1,0 +1,8 @@
+#statements:
+6
+In the log, after "Activity BD", "Activity BO" is substituted by "Activity BK"
+In the log, after "Activity BD", "Activity BP" is substituted by "Activity BK"
+In the log, "Activity BJ" occurs after "Activity BT" and before "Activity BM"
+In the log, "Activity BM" occurs after "Activity BJ" and before "Activity BS"
+In the model, "Activity BN" occurs after "Activity BJ" and before "Activity BK"
+In the model, "Activity BL" occurs after "Activity BJ" and before "Activity BK"

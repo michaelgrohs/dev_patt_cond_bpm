@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 1" occurs after "Identify Problem" and before "Research Related Work"
+In the log, "Random activity 7" occurs after "Develop Method" and before "Experiment"

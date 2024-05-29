@@ -1,0 +1,5 @@
+#statements:
+3
+In the model, "Activity BN" occurs after "Activity BJ" and before "Activity BK"
+In the log, "Activity BM" occurs after "Activity BR" and before "Activity BV"
+In the model, "Activity BL" occurs after "Activity BJ" and before "Activity BK"

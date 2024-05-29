@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 11" occurs after "Develop Method" and before "Experiment"
+In the log, "Random activity 4" occurs after "Experiment" and before "Evaluate"

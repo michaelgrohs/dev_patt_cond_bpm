@@ -1,0 +1,14 @@
+#statements:
+12
+In the model, "Activity BW" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BW" and before "Activity B"
+In the model, "Activity BV" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BV" and before "Activity B"
+In the model, "Activity BY" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BY" and before "Activity B"
+In the model, "Activity BX" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BX" and before "Activity B"
+In the model, "Activity BU" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BU" and before "Activity B"
+In the model, "Activity BT" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BT" and before "Activity B"

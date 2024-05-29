@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, after "Identify Problem", "Research Related Work" is repeated while in the model it is not
+In the log, after "Research Related Work", "Develop Hypothesis" is repeated while in the model it is not
+In the log, after "Develop Hypothesis", "Experiment" is repeated while in the model it is not

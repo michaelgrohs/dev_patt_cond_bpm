@@ -1,0 +1,15 @@
+#statements:
+13
+In the log, "Activity BU" occurs after "Activity BD" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BY" instead of "Activity BU"
+In the model, "Activity BY" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BV" instead of "Activity BU"
+In the model, "Activity BV" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BX" instead of "Activity BU"
+In the model, "Activity BX" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BS" occurs after "Activity BT" instead of "Activity BU"
+In the model, "Activity BT" occurs after "Activity BR" and before "Activity BS"
+In the model, "Activity BU" occurs after "Activity BR" instead of "Activity BD"
+In the model, "Activity BS" occurs after "Activity BU" instead of "Activity BU"
+In the model, "Activity BS" occurs after "Activity BW" instead of "Activity BU"
+In the model, "Activity BW" occurs after "Activity BR" and before "Activity BS"

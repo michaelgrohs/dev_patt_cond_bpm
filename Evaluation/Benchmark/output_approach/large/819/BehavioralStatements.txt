@@ -1,0 +1,8 @@
+#statements:
+6
+In the log, after "Activity AL", "Activity AO" occurs before task "Activity AO", while in the model they are mutually exclusive after marking "[ent_element2817]"
+In the log, after "Activity AL", "Activity AO" occurs before task "Activity AH", while in the model they are mutually exclusive after marking "[ent_element2817]"
+In the log, after "Activity AL", "Activity AO" occurs before task "Activity AL", while in the model they are mutually exclusive after marking "[ent_element2817]"
+In the log, after "Activity AI", "Activity AH" is repeated while in the model it is not
+In the log, after "Activity AH", "Activity AL" is repeated while in the model it is not
+In the log, after "Activity AL", "Activity AO" is repeated while in the model it is not

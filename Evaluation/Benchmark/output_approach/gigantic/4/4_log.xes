@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Early" />
+		<string key="concept:name" value="15" />
+		<int key="id" value="4" />
+		<event>
+			<string key="concept:name" value="Activity BC" />
+			<date key="time:timestamp" value="2010-01-01T01:48:00" />
+			<string key="org:resource" value="Micheline" />
+			<int key="id" value="4" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-01-01T01:49:00" />
+			<string key="org:resource" value="Joe" />
+			<int key="id" value="4" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-01T01:50:00" />
+			<string key="org:resource" value="Grayce" />
+			<int key="id" value="4" />
+		</event>
+	</trace>
+</log>

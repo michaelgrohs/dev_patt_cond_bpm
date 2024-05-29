@@ -1,0 +1,6 @@
+#statements:
+4
+In the model, "Evaluate" occurs after "Experiment" and before "Conclude"
+In the model, "Conclude" occurs after "Evaluate" and before "Submit"
+In the model, "Conduct Study" occurs after "Experiment" and before "Conclude"
+In the model, "Conclude" occurs after "Conduct Study" and before "Submit"

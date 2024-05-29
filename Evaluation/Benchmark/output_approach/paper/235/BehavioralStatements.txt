@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Evaluate" occurs after "Experiment" and before "Conclude"
+In the log, "Conduct Study" occurs after "Submit" and before "Conclude"

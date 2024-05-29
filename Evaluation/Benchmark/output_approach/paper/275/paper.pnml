@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text></text>
+    </name>
+    <page id="n0">
+      <place id="exi_element151">
+        <name>
+          <text>exi_element151</text>
+        </name>
+      </place>
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="exi_element154">
+        <name>
+          <text>exi_element154</text>
+        </name>
+      </place>
+      <place id="ent_element150">
+        <name>
+          <text>ent_element150</text>
+        </name>
+      </place>
+      <place id="ent_element149">
+        <name>
+          <text>ent_element149</text>
+        </name>
+      </place>
+      <place id="ent_element153">
+        <name>
+          <text>ent_element153</text>
+        </name>
+      </place>
+      <place id="ent_element155">
+        <name>
+          <text>ent_element155</text>
+        </name>
+      </place>
+      <place id="ent_element140">
+        <name>
+          <text>ent_element140</text>
+        </name>
+      </place>
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="ent_element148">
+        <name>
+          <text>ent_element148</text>
+        </name>
+      </place>
+      <place id="exi_element156">
+        <name>
+          <text>exi_element156</text>
+        </name>
+      </place>
+      <place id="ent_element151">
+        <name>
+          <text>ent_element151</text>
+        </name>
+      </place>
+      <place id="ent_element157">
+        <name>
+          <text>ent_element157</text>
+        </name>
+      </place>
+      <transition id="element146">
+        <name>
+          <text>Evaluate</text>
+        </name>
+      </transition>
+      <transition id="element140">
+        <name>
+          <text>Research Related Work</text>
+        </name>
+      </transition>
+      <transition id="element142">
+        <name>
+          <text>Develop Hypothesis</text>
+        </name>
+      </transition>
+      <transition id="element145">
+        <name>
+          <text>Conduct Study</text>
+        </name>
+      </transition>
+      <transition id="element147">
+        <name>
+          <text>Conclude</text>
+        </name>
+      </transition>
+      <transition id="element150">
+        <name>
+          <text>Submit</text>
+        </name>
+      </transition>
+      <transition id="941e7935-ac45-43dc-bad3-78b99ae04eb0">
+        <name>
+          <text>941e7935-ac45-43dc-bad3-78b99ae04eb0</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="248e6354-e281-4882-9f8a-c9ce9b9f64d2"/>
+      </transition>
+      <transition id="element141">
+        <name>
+          <text>Develop Method</text>
+        </name>
+      </transition>
+      <transition id="element148">
+        <name>
+          <text>Submit</text>
+        </name>
+      </transition>
+      <transition id="element144">
+        <name>
+          <text>Experiment</text>
+        </name>
+      </transition>
+      <transition id="element143">
+        <name>
+          <text>Identify Problem</text>
+        </name>
+      </transition>
+      <transition id="element152">
+        <name>
+          <text>Minor Revision</text>
+        </name>
+      </transition>
+      <transition id="element153">
+        <name>
+          <text>Final Decision</text>
+        </name>
+      </transition>
+      <transition id="element151">
+        <name>
+          <text>Review</text>
+        </name>
+      </transition>
+      <transition id="element149">
+        <name>
+          <text>Revise</text>
+        </name>
+      </transition>
+      <arc id="6592055328" source="ent_element151" target="element151"/>
+      <arc id="6592055856" source="ent_element148" target="element148"/>
+      <arc id="6625286704" source="941e7935-ac45-43dc-bad3-78b99ae04eb0" target="ent_element153"/>
+      <arc id="6625289264" source="element146" target="ent_element157"/>
+      <arc id="5713097296" source="ent_element150" target="element150"/>
+      <arc id="6625288784" source="element144" target="exi_element156"/>
+      <arc id="6625290320" source="exi_element156" target="element145"/>
+      <arc id="6625288304" source="element150" target="ent_element153"/>
+      <arc id="6625289840" source="exi_element154" target="element142"/>
+      <arc id="6625286800" source="element143" target="ent_element140"/>
+      <arc id="6625289360" source="element153" target="sink"/>
+      <arc id="6625288880" source="element140" target="exi_element154"/>
+      <arc id="6625290416" source="ent_element157" target="element147"/>
+      <arc id="6592054992" source="element151" target="exi_element151"/>
+      <arc id="6625289936" source="source" target="element143"/>
+      <arc id="6625289456" source="element149" target="ent_element150"/>
+      <arc id="6583039744" source="ent_element149" target="element149"/>
+      <arc id="6625290128" source="ent_element155" target="element144"/>
+      <arc id="6625286416" source="element145" target="ent_element157"/>
+      <arc id="6625290512" source="exi_element156" target="element146"/>
+      <arc id="6625290032" source="exi_element154" target="element141"/>
+      <arc id="5651366192" source="exi_element151" target="941e7935-ac45-43dc-bad3-78b99ae04eb0"/>
+      <arc id="6596650320" source="ent_element153" target="element153"/>
+      <arc id="6625289552" source="element142" target="ent_element155"/>
+      <arc id="6625287568" source="element152" target="ent_element149"/>
+      <arc id="6625288592" source="element147" target="ent_element148"/>
+      <arc id="6625289648" source="element148" target="ent_element151"/>
+      <arc id="6592054224" source="ent_element140" target="element140"/>
+      <arc id="6625288144" source="element141" target="ent_element155"/>
+      <arc id="6625290224" source="exi_element151" target="element152"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="sink">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

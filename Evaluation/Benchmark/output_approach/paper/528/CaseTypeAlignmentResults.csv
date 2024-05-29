@@ -1,0 +1,6 @@
+Alignments per Case Type:
+Case Type, Represented number of traces,alignment(task) #1,alignment(task) #2,alignment(task) #3,...
+
+1,1,LMGOOD( Identify Problem),LMGOOD( Research Related Work),L( Develop Method),L( Research Related Work),LMGOOD( Develop Method),LMGOOD( Experiment),LMGOOD( Evaluate),LMGOOD( Conclude),LMGOOD( Submit),LMGOOD( Review),LMGOOD( Minor Revision),LMGOOD( Revise),LMGOOD( Submit),LMGOOD( Final Decision)
+1,1,LMGOOD( Identify Problem),LMGOOD( Research Related Work),LMGOOD( Develop Method),L( Research Related Work),L( Develop Method),LMGOOD( Experiment),LMGOOD( Evaluate),LMGOOD( Conclude),LMGOOD( Submit),LMGOOD( Review),LMGOOD( Minor Revision),LMGOOD( Revise),LMGOOD( Submit),LMGOOD( Final Decision)
+1,1,LMGOOD( Identify Problem),L( Research Related Work),L( Develop Method),LMGOOD( Research Related Work),LMGOOD( Develop Method),LMGOOD( Experiment),LMGOOD( Evaluate),LMGOOD( Conclude),LMGOOD( Submit),LMGOOD( Review),LMGOOD( Minor Revision),LMGOOD( Revise),LMGOOD( Submit),LMGOOD( Final Decision)

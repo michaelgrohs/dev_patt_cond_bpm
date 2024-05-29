@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Identify Problem" occurs after the start state and before "Research Related Work"
+In the model, "Research Related Work" occurs after "Identify Problem" and before "Develop Method"

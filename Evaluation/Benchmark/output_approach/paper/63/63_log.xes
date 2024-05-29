@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="281" />
+		<int key="id" value="63" />
+		<event>
+			<string key="concept:name" value="Identify Problem" />
+			<date key="time:timestamp" value="2014-08-06T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 11" />
+			<date key="time:timestamp" value="2014-09-06T00:00:00" />
+			<string key="org:resource" value="Random user 5" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Research Related Work" />
+			<date key="time:timestamp" value="2014-09-06T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Develop Method" />
+			<date key="time:timestamp" value="2014-10-06T00:00:00" />
+			<string key="org:resource" value="Student" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Experiment" />
+			<date key="time:timestamp" value="2014-10-06T00:14:00" />
+			<string key="org:resource" value="Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 6" />
+			<date key="time:timestamp" value="2014-11-06T00:00:00" />
+			<string key="org:resource" value="Random user 1" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Evaluate" />
+			<date key="time:timestamp" value="2014-11-06T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Conclude" />
+			<date key="time:timestamp" value="2014-12-06T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Submit" />
+			<date key="time:timestamp" value="2014-12-06T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Review" />
+			<date key="time:timestamp" value="2014-06-13T00:00:00" />
+			<string key="org:resource" value="Reviewer" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Minor Revision" />
+			<date key="time:timestamp" value="2014-06-13T00:14:00" />
+			<string key="org:resource" value="Metareviewer" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Revise" />
+			<date key="time:timestamp" value="2014-06-14T00:00:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Submit" />
+			<date key="time:timestamp" value="2014-06-14T00:14:00" />
+			<string key="org:resource" value="Main Author" />
+			<int key="id" value="63" />
+		</event>
+		<event>
+			<string key="concept:name" value="Final Decision" />
+			<date key="time:timestamp" value="2014-06-15T00:00:00" />
+			<string key="org:resource" value="Metareviewer" />
+			<int key="id" value="63" />
+		</event>
+	</trace>
+</log>

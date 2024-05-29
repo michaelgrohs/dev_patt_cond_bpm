@@ -1,0 +1,6 @@
+#statements:
+4
+In the log, after "Identify Problem", "Research Related Work" occurs before task "Research Related Work", while in the model they are mutually exclusive after marking "[source]"
+In the log, after "Research Related Work", "Identify Problem" occurs before task "Identify Problem", while in the model they are mutually exclusive after marking "[ent_element140]"
+In the log, after "Research Related Work", "Identify Problem" occurs before task "Research Related Work", while in the model they are mutually exclusive after marking "[ent_element140]"
+In the log, after "Identify Problem", "Research Related Work" is repeated while in the model it is not

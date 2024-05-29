@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 2" occurs after "Evaluate" and before "Conclude"
+In the log, "Random activity 2" occurs after "Submit" and before "Conclude"

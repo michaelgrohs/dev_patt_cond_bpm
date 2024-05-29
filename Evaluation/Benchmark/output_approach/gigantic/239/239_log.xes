@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="SkipSequence" />
+		<string key="concept:name" value="1535" />
+		<int key="id" value="239" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-10-01T01:23:00" />
+			<string key="org:resource" value="Micheline" />
+			<int key="id" value="239" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity T" />
+			<date key="time:timestamp" value="2010-10-01T01:24:00" />
+			<string key="org:resource" value="Grayce" />
+			<int key="id" value="239" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AC" />
+			<date key="time:timestamp" value="2010-10-01T01:26:00" />
+			<string key="org:resource" value="Ling" />
+			<int key="id" value="239" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AD" />
+			<date key="time:timestamp" value="2010-10-01T01:27:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="239" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="2010-10-01T01:29:00" />
+			<string key="org:resource" value="Brant" />
+			<int key="id" value="239" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-10-01T01:30:00" />
+			<string key="org:resource" value="Deloras" />
+			<int key="id" value="239" />
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 5" occurs after "Evaluate" and before "Conclude"
+In the log, "Random activity 4" occurs after "Revise" and before "Final Decision"

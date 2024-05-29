@@ -1,0 +1,14 @@
+#statements:
+12
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Review", "Final Decision" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Final Decision", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Final Decision", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[sink]"
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Submit", "Review" occurs before task "Final Decision", while in the model they are mutually exclusive after marking "[exi_element151]"
+In the log, after "Review", "Final Decision" occurs before task "Final Decision", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Review", "Final Decision" occurs before task "Submit", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Review", "Final Decision" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Conclude", "Submit" is repeated while in the model it is not
+In the log, after "Submit", "Review" is repeated while in the model it is not
+In the log, after "Review", "Final Decision" is repeated while in the model it is not

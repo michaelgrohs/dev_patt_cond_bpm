@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Activity AB" occurs after "Activity W" instead of "Activity A"
+In the model, "Activity U" occurs after "Activity AB" instead of "Activity AB"

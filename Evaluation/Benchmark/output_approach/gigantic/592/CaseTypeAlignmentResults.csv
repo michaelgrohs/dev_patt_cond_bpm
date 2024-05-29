@@ -1,0 +1,9 @@
+Alignments per Case Type:
+Case Type, Represented number of traces,alignment(task) #1,alignment(task) #2,alignment(task) #3,...
+
+1,1,LMGOOD( Activity A),LMGOOD( Activity BD),LMGOOD( Activity BJ),LMGOOD( Activity BM),LMGOOD( Activity BK),LMGOOD( Activity BE),LMGOOD( Activity BQ),LMGOOD( Activity BR),MREAL( Activity BY),MREAL( Activity BS),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),LMGOOD( Activity BD),LMGOOD( Activity BJ),LMGOOD( Activity BM),LMGOOD( Activity BK),LMGOOD( Activity BE),LMGOOD( Activity BQ),LMGOOD( Activity BR),MREAL( Activity BU),MREAL( Activity BS),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),LMGOOD( Activity BD),LMGOOD( Activity BJ),LMGOOD( Activity BM),LMGOOD( Activity BK),LMGOOD( Activity BE),LMGOOD( Activity BQ),LMGOOD( Activity BR),MREAL( Activity BW),MREAL( Activity BS),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),LMGOOD( Activity BD),LMGOOD( Activity BJ),LMGOOD( Activity BM),LMGOOD( Activity BK),LMGOOD( Activity BE),LMGOOD( Activity BQ),LMGOOD( Activity BR),MREAL( Activity BX),MREAL( Activity BS),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),LMGOOD( Activity BD),LMGOOD( Activity BJ),LMGOOD( Activity BM),LMGOOD( Activity BK),LMGOOD( Activity BE),LMGOOD( Activity BQ),LMGOOD( Activity BR),MREAL( Activity BT),MREAL( Activity BS),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),LMGOOD( Activity BD),LMGOOD( Activity BJ),LMGOOD( Activity BM),LMGOOD( Activity BK),LMGOOD( Activity BE),LMGOOD( Activity BQ),LMGOOD( Activity BR),MREAL( Activity BV),MREAL( Activity BS),LMGOOD( Activity B)

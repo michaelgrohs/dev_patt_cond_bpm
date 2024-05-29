@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, after "Submit", "Review" is repeated while in the model it is not
+In the log, after "Review", "Minor Revision" is repeated while in the model it is not
+In the log, after "Minor Revision", "Revise" is repeated while in the model it is not

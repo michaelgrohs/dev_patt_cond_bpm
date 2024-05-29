@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 3" occurs after "Conclude" and before "Submit"
+In the log, "Random activity 8" occurs after "Submit" and before "Review"

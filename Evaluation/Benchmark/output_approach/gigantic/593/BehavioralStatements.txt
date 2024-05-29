@@ -1,0 +1,3 @@
+#statements:
+1
+In the model, "Activity AR" occurs after "Activity AQ" instead of "Activity T"

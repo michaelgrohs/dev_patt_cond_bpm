@@ -1,0 +1,8 @@
+#statements:
+6
+In the log, after "Activity C", "Activity R" is substituted by "Activity M"
+In the model, "Activity L" occurs after "Activity C" and before "Activity O"
+In the model, "Activity O" occurs after "Activity L" and before "Activity M"
+In the model, "Activity Q" occurs after "Activity L" and before "Activity M"
+In the model, "Activity P" occurs after "Activity L" and before "Activity M"
+In the model, "Activity N" occurs after "Activity L" and before "Activity M"

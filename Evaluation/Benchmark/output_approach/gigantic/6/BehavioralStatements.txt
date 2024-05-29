@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 8" occurs after "Activity BE" and before "Activity BQ"
+In the log, "Random activity 12" occurs after "Activity BR" and before "Activity BX"

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 2" occurs after the initial state and before "Identify Problem"
+In the log, "Random activity 8" occurs after "Identify Problem" and before "Research Related Work"

@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, "Develop Method" occurs after "Identify Problem" and before "Research Related Work"
+In the model, "Develop Hypothesis" occurs after "Research Related Work" and before "Experiment"
+In the model, "Develop Method" occurs after "Research Related Work" instead of "Identify Problem"

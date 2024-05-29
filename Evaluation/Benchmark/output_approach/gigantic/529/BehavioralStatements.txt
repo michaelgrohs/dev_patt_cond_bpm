@@ -1,0 +1,3 @@
+#statements:
+1
+In the log, "Random activity 57" occurs after "Activity AN" and before "Activity AP"

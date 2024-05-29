@@ -1,0 +1,8 @@
+#statements:
+6
+In the log, after "Submit", "Review" occurs before task "Evaluate", while in the model they are mutually exclusive after marking "[exi_element156]"
+In the log, after "Submit", "Review" occurs before task "Conclude", while in the model they are mutually exclusive after marking "[exi_element156]"
+In the model, "Submit" occurs after "Conclude" instead of "Experiment"
+In the model, "Review" occurs after "Submit" instead of "Submit"
+In the model, "Conduct Study" occurs after "Experiment" and before "Conclude"
+In the log, "Evaluate" occurs after "Review" and before "Conclude"

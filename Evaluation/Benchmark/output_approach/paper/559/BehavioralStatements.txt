@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, after "Research Related Work", "Experiment" occurs before task "Develop Method", while in the model they are mutually exclusive after marking "[exi_element154]"
+In the model, "Develop Hypothesis" occurs after "Research Related Work" and before "Experiment"
+In the model, "Experiment" occurs after "Develop Method" instead of "Research Related Work"

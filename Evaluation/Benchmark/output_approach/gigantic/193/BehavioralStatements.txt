@@ -1,0 +1,13 @@
+#statements:
+11
+In the log, after "Activity A", "Activity BM" occurs before task "Activity BD", while in the model they are mutually exclusive after marking "[exi_element29958]"
+In the log, after "Activity BM", "Activity BK" occurs before task "Activity BD", while in the model they are mutually exclusive after marking "[exi_element29958]"
+In the log, after "Activity BD", "Activity BP" is substituted by "Activity BJ"
+In the log, after "Activity BD", "Activity BO" is substituted by "Activity BJ"
+In the model, "Activity BK" occurs after "Activity BN" instead of "Activity BM"
+In the model, "Activity BN" occurs after "Activity BJ" and before "Activity BK"
+In the model, "Activity BK" occurs after "Activity BL" instead of "Activity BM"
+In the model, "Activity BL" occurs after "Activity BJ" and before "Activity BK"
+In the model, "Activity BD" occurs after "Activity A" and before "Activity BJ"
+In the model, "Activity BM" occurs after "Activity BJ" instead of "Activity A"
+In the model, "Activity BK" occurs after "Activity BM" instead of "Activity BM"

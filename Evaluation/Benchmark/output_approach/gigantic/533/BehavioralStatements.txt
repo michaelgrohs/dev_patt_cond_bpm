@@ -1,0 +1,15 @@
+#statements:
+13
+In the log, after "Activity AT", "Activity AO" occurs before task "Activity AS", while in the model they are mutually exclusive after marking "[exi_element30074]"
+In the log, after "Activity AT", "Activity AO" occurs before task "Activity AV", while in the model they are mutually exclusive after marking "[exi_element30074]"
+In the model, "Activity AZ" occurs after "Activity AS" and before "Activity AT"
+In the model, "Activity AX" occurs after "Activity AS" and before "Activity AT"
+In the log, after "Activity AN", "Activity AP" is substituted by "Activity AT"
+In the model, "Activity AW" occurs after "Activity AS" and before "Activity AT"
+In the model, "Activity AT" occurs after "Activity AV" instead of "Activity AN"
+In the model, "Activity AO" occurs after "Activity AT" instead of "Activity AT"
+In the model, "Activity AP" occurs after "Activity AN" and before "Activity AO"
+In the log, "Activity AS" occurs after "Activity AO" and before "Activity AV"
+In the log, "Activity AV" occurs after "Activity AS" and before "Activity U"
+In the model, "Activity AY" occurs after "Activity AS" and before "Activity AT"
+In the model, "Activity AU" occurs after "Activity AS" and before "Activity AT"

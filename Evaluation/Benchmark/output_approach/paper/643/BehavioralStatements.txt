@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, "Minor Revision" occurs after "Conclude" and before "Revise"
+In the log, "Revise" occurs after "Minor Revision" and before "Submit"
+In the log, after "Revise", "Submit" is repeated while in the model it is not

@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Review" occurs after "Submit" instead of "Conclude"
+In the log, after "Review", "Submit" is repeated while in the model it is not

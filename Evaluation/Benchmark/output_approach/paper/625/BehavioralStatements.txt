@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 3" occurs after "Research Related Work" and before "Develop Method"
+In the log, "Random activity 5" occurs after "Evaluate" and before "Conclude"

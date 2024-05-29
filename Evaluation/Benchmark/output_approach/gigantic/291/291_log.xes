@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="1921" />
+		<int key="id" value="291" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-12-01T10:53:00" />
+			<string key="org:resource" value="Seth" />
+			<int key="id" value="291" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 68" />
+			<date key="time:timestamp" value="2010-12-01T10:55:00" />
+			<string key="org:resource" value="Random user 39" />
+			<int key="id" value="291" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity BC" />
+			<date key="time:timestamp" value="2010-12-01T10:56:00" />
+			<string key="org:resource" value="Micheline" />
+			<int key="id" value="291" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-12-01T10:58:00" />
+			<string key="org:resource" value="Tiffiny" />
+			<int key="id" value="291" />
+		</event>
+	</trace>
+</log>

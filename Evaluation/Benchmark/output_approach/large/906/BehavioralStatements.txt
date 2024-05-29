@@ -1,0 +1,6 @@
+#statements:
+4
+In the model, "Activity AN" occurs after "Activity AL" instead of "Activity AK"
+In the model, "Activity AM" occurs after "Activity AN" instead of "Activity AN"
+In the model, "Activity AM" occurs after "Activity AO" instead of "Activity AN"
+In the model, "Activity AO" occurs after "Activity AL" and before "Activity AM"

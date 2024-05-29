@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, "Conduct Study" occurs after "Research Related Work" and before "Develop Hypothesis"
+In the model, "Evaluate" occurs after "Experiment" and before "Conclude"
+In the model, "Conduct Study" occurs after "Experiment" instead of "Research Related Work"

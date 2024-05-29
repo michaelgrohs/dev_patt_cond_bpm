@@ -1,0 +1,7 @@
+#statements:
+5
+In the model, "Experiment" occurs after "Develop Method" instead of "Identify Problem"
+In the model, "Evaluate" occurs after "Experiment" instead of "Experiment"
+In the model, "Conduct Study" occurs after "Experiment" and before "Conclude"
+In the model, "Develop Hypothesis" occurs after "Research Related Work" and before "Experiment"
+In the log, "Develop Method" occurs after "Research Related Work" and before "Conclude"

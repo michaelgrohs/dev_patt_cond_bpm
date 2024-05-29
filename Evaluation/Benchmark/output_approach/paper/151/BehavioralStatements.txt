@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Evaluate" occurs after "Experiment" instead of "Develop Method"
+In the model, "Conduct Study" occurs after "Experiment" and before "Conclude"

@@ -1,0 +1,14 @@
+#statements:
+12
+In the log, after "Conduct Study", "Conclude" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element157]"
+In the log, after "Conclude", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element157]"
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element157]"
+In the log, after "Conclude", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Review", "Conclude" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element148]"
+In the log, after "Submit", "Review" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Review", "Conclude" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Conclude", "Submit" occurs before task "Review", while in the model they are mutually exclusive after marking "[ent_element151]"
+In the log, after "Conduct Study", "Conclude" is repeated while in the model it is not
+In the log, after "Conclude", "Submit" is repeated while in the model it is not
+In the log, after "Submit", "Review" is repeated while in the model it is not

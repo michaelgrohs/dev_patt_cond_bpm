@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Submit" occurs after "Revise" instead of "Conclude"
+In the model, "Submit" occurs after "Revise" instead of "Submit"
