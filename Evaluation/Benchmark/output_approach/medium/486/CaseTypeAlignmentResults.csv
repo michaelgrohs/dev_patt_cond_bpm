@@ -1,0 +1,6 @@
+Alignments per Case Type:
+Case Type, Represented number of traces,alignment(task) #1,alignment(task) #2,alignment(task) #3,...
+
+1,1,LMGOOD( Activity A),MREAL( Activity O),MREAL( Activity U),LMGOOD( Activity X),LMGOOD( Activity V),L( Activity O),L( Activity U),LMGOOD( Activity P),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),L( Activity X),L( Activity V),LMGOOD( Activity O),LMGOOD( Activity U),MREAL( Activity W),MREAL( Activity V),LMGOOD( Activity P),LMGOOD( Activity B)
+1,1,LMGOOD( Activity A),L( Activity X),L( Activity V),LMGOOD( Activity O),LMGOOD( Activity U),MREAL( Activity X),MREAL( Activity V),LMGOOD( Activity P),LMGOOD( Activity B)

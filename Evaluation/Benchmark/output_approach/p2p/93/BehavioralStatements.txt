@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Create SC" occurs after the start state and before "Purchase SC"
+In the model, "Purchase SC" occurs after "Create SC" and before "Approve SC"

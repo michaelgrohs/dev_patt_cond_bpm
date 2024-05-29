@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Create PO", "Release PO" is repeated while in the model it is not
+In the log, after "Release PO", "Post GR" is repeated while in the model it is not

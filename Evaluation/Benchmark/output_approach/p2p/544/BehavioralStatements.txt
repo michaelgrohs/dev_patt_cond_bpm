@@ -1,0 +1,11 @@
+#statements:
+9
+In the log, after "Create SC", "Purchase SC" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5441]"
+In the log, after "Purchase SC", "Approve SC" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5441]"
+In the log, after "Approve SC", "Create PO" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5441]"
+In the log, after "Create PO", "Purchase SC" occurs before task "Purchase SC", while in the model they are mutually exclusive after marking "[ent_element5444]"
+In the log, after "Create PO", "Purchase SC" occurs before task "Approve SC", while in the model they are mutually exclusive after marking "[ent_element5444]"
+In the log, after "Create PO", "Purchase SC" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5444]"
+In the log, after "Approve SC", "Create PO" is repeated while in the model it is not
+In the log, after "Create SC", "Purchase SC" is repeated while in the model it is not
+In the log, after "Purchase SC", "Approve SC" is repeated while in the model it is not

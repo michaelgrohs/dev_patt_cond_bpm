@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="SkipSequence" />
+		<string key="concept:name" value="3375" />
+		<int key="id" value="597" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-01-30T03:01:00" />
+			<string key="org:resource" value="Ronald" />
+			<int key="id" value="597" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AT" />
+			<date key="time:timestamp" value="2010-01-30T03:02:00" />
+			<string key="org:resource" value="Jack" />
+			<int key="id" value="597" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AY" />
+			<date key="time:timestamp" value="2010-01-30T03:04:00" />
+			<string key="org:resource" value="Howard" />
+			<int key="id" value="597" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AZ" />
+			<date key="time:timestamp" value="2010-01-30T03:05:00" />
+			<string key="org:resource" value="Sonia" />
+			<int key="id" value="597" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity BB" />
+			<date key="time:timestamp" value="2010-01-30T03:07:00" />
+			<string key="org:resource" value="Sharee" />
+			<int key="id" value="597" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AU" />
+			<date key="time:timestamp" value="2010-01-30T03:08:00" />
+			<string key="org:resource" value="Sharee" />
+			<int key="id" value="597" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-30T03:10:00" />
+			<string key="org:resource" value="Micheline" />
+			<int key="id" value="597" />
+		</event>
+	</trace>
+</log>

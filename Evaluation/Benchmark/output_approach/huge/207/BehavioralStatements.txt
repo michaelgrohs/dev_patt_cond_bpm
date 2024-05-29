@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Activity R" occurs after "Activity M" and before "Activity AC"
+In the model, "Activity AC" occurs after "Activity R" and before "Activity AH"

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Activity AP", "Activity AQ" is repeated while in the model it is not
+In the log, after "Activity AQ", "Activity AR" is repeated while in the model it is not

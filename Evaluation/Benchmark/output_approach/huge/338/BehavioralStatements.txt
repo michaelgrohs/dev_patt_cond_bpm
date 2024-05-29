@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 18" occurs after the initial state and before "Activity A"
+In the log, "Random activity 23" occurs after "Activity AQ" and before "Activity AR"

@@ -1,0 +1,13 @@
+#statements:
+11
+In the log, after "Approve PR", "Create PO" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_0alz9zj]"
+In the log, after "Create PO", "Sign PO" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_0alz9zj]"
+In the log, after "Release PO", "Goods Receipt" occurs before task "Pay", while in the model they are mutually exclusive after marking "[ent_Activity_1scn6jh,exi_Gateway_1s1y1ba]"
+In the log, after "Goods Receipt", "Invoice Receipt" occurs before task "Pay", while in the model they are mutually exclusive after marking "[ent_Activity_1scn6jh,exi_Gateway_1s1y1ba]"
+In the log, after "Create PO", "Sign PO" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_1fv5vae]"
+In the log, after "Sign PO", "Create PO" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_1fv5vae]"
+In the log, after "Goods Receipt", "Invoice Receipt" occurs before task "Service Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_1scn6jh,exi_Gateway_1s1y1ba]"
+In the log, after "Goods Receipt", "Invoice Receipt" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_1scn6jh,exi_Gateway_1s1y1ba]"
+In the log, after "Sign PO", "Create PO" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_033vwyd]"
+In the log, after "Create PO", "Sign PO" occurs before task "Invoice Receipt", while in the model they are mutually exclusive after marking "[ent_Activity_033vwyd]"
+In the log, after "Invoice Receipt", "Pay" is repeated while in the model it is not

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Create SC", "Purchase SC" occurs before task "Create SC", while in the model they are mutually exclusive after marking "[source]"
+In the log, after "Create SC", "Purchase SC" is repeated while in the model it is not

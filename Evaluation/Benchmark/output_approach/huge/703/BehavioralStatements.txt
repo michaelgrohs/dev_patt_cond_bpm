@@ -1,0 +1,12 @@
+#statements:
+10
+In the log, "Activity AB" occurs after "Activity A" and before "Activity X"
+In the model, "Activity X" occurs after "Activity Y" instead of "Activity AB"
+In the model, "Activity Y" occurs after "Activity W" and before "Activity X"
+In the model, "Activity X" occurs after "Activity AA" instead of "Activity AB"
+In the model, "Activity AA" occurs after "Activity W" and before "Activity X"
+In the model, "Activity X" occurs after "Activity Z" instead of "Activity AB"
+In the model, "Activity Z" occurs after "Activity W" and before "Activity X"
+In the model, "Activity AB" occurs after "Activity W" instead of "Activity A"
+In the model, "Activity X" occurs after "Activity AB" instead of "Activity AB"
+In the log, after "Activity R", "Activity V" is substituted by "Activity W"

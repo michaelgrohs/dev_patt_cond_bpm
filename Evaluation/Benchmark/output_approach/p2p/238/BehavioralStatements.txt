@@ -1,0 +1,3 @@
+#statements:
+1
+In the model, "Approve SC" occurs after "Purchase SC" instead of "Create SC"

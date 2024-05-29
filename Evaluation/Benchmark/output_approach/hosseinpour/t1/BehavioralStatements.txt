@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Modify PO" occurs after "Goods Receipt" and before "Pay"
+In the log, "Modify PO" occurs after "Modify PO" and before "Pay"

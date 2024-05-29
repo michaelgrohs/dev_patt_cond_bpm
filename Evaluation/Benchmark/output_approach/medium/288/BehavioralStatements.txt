@@ -1,0 +1,7 @@
+#statements:
+5
+In the model, "Activity C" occurs after "Activity A" and before "Activity G"
+In the model, "Activity G" occurs after "Activity C" and before "Activity D"
+In the model, "Activity F" occurs after "Activity C" and before "Activity D"
+In the model, "Activity E" occurs after "Activity C" and before "Activity D"
+In the model, "Activity H" occurs after "Activity C" and before "Activity D"

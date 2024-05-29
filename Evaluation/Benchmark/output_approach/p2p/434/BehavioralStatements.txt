@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 2" occurs after the initial state and before "Create PR"
+In the log, "Random activity 10" occurs after "Create PR" and before "Release PR"

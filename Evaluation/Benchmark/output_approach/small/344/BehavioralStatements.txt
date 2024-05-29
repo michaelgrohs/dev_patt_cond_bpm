@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, "Activity O" occurs after "Activity A" and before "Activity P"
+In the log, "Activity P" occurs after "Activity O" and before "Activity B"
+In the model, "Activity Q" occurs after "Activity K" and before "Activity L"

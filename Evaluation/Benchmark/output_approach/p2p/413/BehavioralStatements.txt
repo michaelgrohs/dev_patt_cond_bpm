@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 3" occurs after "Approve SC" and before "Create PO"
+In the log, "Random activity 6" occurs after "Post GR" and before "Post IR"

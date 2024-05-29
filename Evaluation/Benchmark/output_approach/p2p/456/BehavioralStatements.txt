@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Create PO" occurs after "Approve SC" and before "Approve PO 1"
+In the model, "Approve PO 1" occurs after "Create PO" and before "Approve PO 2"

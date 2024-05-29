@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 35" occurs after "Activity AG" and before "Activity AI"
+In the log, "Random activity 21" occurs after "Activity AM" and before "Activity AP"

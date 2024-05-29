@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Activity I", "Activity L" occurs before task "Activity K", while in the model they are mutually exclusive after marking "[exi_element2747]"
+In the model, "Activity L" occurs after "Activity K" instead of "Activity I"

@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Activity AI" occurs after "Activity A" and before "Activity AK"
+In the model, "Activity AK" occurs after "Activity AI" and before "Activity AJ"

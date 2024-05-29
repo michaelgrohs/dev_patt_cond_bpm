@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text></text>
+    </name>
+    <page id="n0">
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="ent_element1184">
+        <name>
+          <text>ent_element1184</text>
+        </name>
+      </place>
+      <place id="ent_element1144">
+        <name>
+          <text>ent_element1144</text>
+        </name>
+      </place>
+      <place id="ent_element1148">
+        <name>
+          <text>ent_element1148</text>
+        </name>
+      </place>
+      <place id="ent_element1237">
+        <name>
+          <text>ent_element1237</text>
+        </name>
+      </place>
+      <place id="ent_element1213">
+        <name>
+          <text>ent_element1213</text>
+        </name>
+      </place>
+      <place id="ent_element1190">
+        <name>
+          <text>ent_element1190</text>
+        </name>
+      </place>
+      <place id="ent_element1232">
+        <name>
+          <text>ent_element1232</text>
+        </name>
+      </place>
+      <place id="exi_element1180">
+        <name>
+          <text>exi_element1180</text>
+        </name>
+      </place>
+      <place id="ent_element1181">
+        <name>
+          <text>ent_element1181</text>
+        </name>
+      </place>
+      <place id="exi_element1212">
+        <name>
+          <text>exi_element1212</text>
+        </name>
+      </place>
+      <place id="exi_element1189">
+        <name>
+          <text>exi_element1189</text>
+        </name>
+      </place>
+      <place id="exi_element1139">
+        <name>
+          <text>exi_element1139</text>
+        </name>
+      </place>
+      <place id="ent_element1140">
+        <name>
+          <text>ent_element1140</text>
+        </name>
+      </place>
+      <place id="exi_element1143">
+        <name>
+          <text>exi_element1143</text>
+        </name>
+      </place>
+      <place id="exi_element1147">
+        <name>
+          <text>exi_element1147</text>
+        </name>
+      </place>
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <transition id="element1218">
+        <name>
+          <text>Activity AB</text>
+        </name>
+      </transition>
+      <transition id="element1141">
+        <name>
+          <text>Activity B</text>
+        </name>
+      </transition>
+      <transition id="element1183">
+        <name>
+          <text>Activity P</text>
+        </name>
+      </transition>
+      <transition id="element1179">
+        <name>
+          <text>Activity N</text>
+        </name>
+      </transition>
+      <transition id="element1236">
+        <name>
+          <text>Activity AG</text>
+        </name>
+      </transition>
+      <transition id="element1221">
+        <name>
+          <text>Activity AC</text>
+        </name>
+      </transition>
+      <transition id="element1232">
+        <name>
+          <text>Activity AF</text>
+        </name>
+      </transition>
+      <transition id="element1201">
+        <name>
+          <text>Activity W</text>
+        </name>
+      </transition>
+      <transition id="element1188">
+        <name>
+          <text>Activity R</text>
+        </name>
+      </transition>
+      <transition id="element1211">
+        <name>
+          <text>Activity Y</text>
+        </name>
+      </transition>
+      <transition id="element1145">
+        <name>
+          <text>Activity D</text>
+        </name>
+      </transition>
+      <transition id="element1150">
+        <name>
+          <text>Activity G</text>
+        </name>
+      </transition>
+      <transition id="element1182">
+        <name>
+          <text>Activity O</text>
+        </name>
+      </transition>
+      <transition id="element1191">
+        <name>
+          <text>Activity S</text>
+        </name>
+      </transition>
+      <transition id="element1237">
+        <name>
+          <text>Activity AH</text>
+        </name>
+      </transition>
+      <transition id="element1169">
+        <name>
+          <text>Activity L</text>
+        </name>
+      </transition>
+      <transition id="element1172">
+        <name>
+          <text>Activity M</text>
+        </name>
+      </transition>
+      <transition id="element1195">
+        <name>
+          <text>Activity U</text>
+        </name>
+      </transition>
+      <transition id="element1214">
+        <name>
+          <text>Activity Z</text>
+        </name>
+      </transition>
+      <transition id="element1224">
+        <name>
+          <text>Activity AD</text>
+        </name>
+      </transition>
+      <transition id="element1231">
+        <name>
+          <text>Activity AE</text>
+        </name>
+      </transition>
+      <transition id="element1149">
+        <name>
+          <text>Activity F</text>
+        </name>
+      </transition>
+      <transition id="element1192">
+        <name>
+          <text>Activity T</text>
+        </name>
+      </transition>
+      <transition id="element1153">
+        <name>
+          <text>Activity H</text>
+        </name>
+      </transition>
+      <transition id="element1156">
+        <name>
+          <text>Activity I</text>
+        </name>
+      </transition>
+      <transition id="element1215">
+        <name>
+          <text>Activity AA</text>
+        </name>
+      </transition>
+      <transition id="element1138">
+        <name>
+          <text>Activity A</text>
+        </name>
+      </transition>
+      <transition id="element1198">
+        <name>
+          <text>Activity V</text>
+        </name>
+      </transition>
+      <transition id="element1142">
+        <name>
+          <text>Activity C</text>
+        </name>
+      </transition>
+      <transition id="element1159">
+        <name>
+          <text>Activity J</text>
+        </name>
+      </transition>
+      <transition id="element1166">
+        <name>
+          <text>Activity K</text>
+        </name>
+      </transition>
+      <transition id="element1184">
+        <name>
+          <text>Activity Q</text>
+        </name>
+      </transition>
+      <transition id="element1204">
+        <name>
+          <text>Activity X</text>
+        </name>
+      </transition>
+      <transition id="element1146">
+        <name>
+          <text>Activity E</text>
+        </name>
+      </transition>
+      <arc id="6495068272" source="ent_element1237" target="element1237"/>
+      <arc id="6480654448" source="element1183" target="ent_element1184"/>
+      <arc id="6410090624" source="ent_element1184" target="element1184"/>
+      <arc id="6480590976" source="exi_element1143" target="element1169"/>
+      <arc id="6480791728" source="element1198" target="ent_element1190"/>
+      <arc id="6480656560" source="element1141" target="sink"/>
+      <arc id="6480589008" source="exi_element1180" target="element1236"/>
+      <arc id="6480591072" source="exi_element1189" target="element1204"/>
+      <arc id="6480791824" source="element1231" target="ent_element1232"/>
+      <arc id="6480656656" source="element1236" target="ent_element1237"/>
+      <arc id="6480591168" source="exi_element1147" target="element1150"/>
+      <arc id="6480654736" source="element1142" target="exi_element1143"/>
+      <arc id="6480591264" source="ent_element1140" target="element1141"/>
+      <arc id="6480589248" source="exi_element1180" target="element1183"/>
+      <arc id="6480591312" source="exi_element1212" target="element1221"/>
+      <arc id="6480657712" source="ent_element1190" target="element1191"/>
+      <arc id="6480790000" source="element1172" target="ent_element1144"/>
+      <arc id="6480589344" source="exi_element1189" target="element1192"/>
+      <arc id="6480656944" source="element1153" target="ent_element1148"/>
+      <arc id="6480792880" source="element1182" target="ent_element1140"/>
+      <arc id="6480591456" source="exi_element1189" target="element1195"/>
+      <arc id="6480657040" source="element1184" target="ent_element1181"/>
+      <arc id="6480655024" source="element1179" target="exi_element1180"/>
+      <arc id="6480589536" source="exi_element1143" target="element1172"/>
+      <arc id="6480658192" source="exi_element1212" target="element1215"/>
+      <arc id="6480591696" source="exi_element1147" target="element1153"/>
+      <arc id="6480655216" source="element1221" target="ent_element1213"/>
+      <arc id="6480655312" source="element1145" target="ent_element1140"/>
+      <arc id="6480589776" source="exi_element1139" target="element1179"/>
+      <arc id="6480657424" source="element1215" target="ent_element1213"/>
+      <arc id="6480591888" source="ent_element1144" target="element1145"/>
+      <arc id="6480655408" source="element1149" target="ent_element1144"/>
+      <arc id="6480784496" source="element1214" target="ent_element1181"/>
+      <arc id="6480657520" source="exi_element1139" target="element1142"/>
+      <arc id="6480790672" source="element1169" target="ent_element1144"/>
+      <arc id="6480655504" source="element1204" target="ent_element1190"/>
+      <arc id="6480589968" source="exi_element1189" target="element1201"/>
+      <arc id="6480784592" source="element1166" target="ent_element1144"/>
+      <arc id="6480657616" source="exi_element1180" target="element1188"/>
+      <arc id="6480590064" source="ent_element1213" target="element1214"/>
+      <arc id="6480592128" source="exi_element1212" target="element1218"/>
+      <arc id="5634241824" source="ent_element1232" target="element1232"/>
+      <arc id="6480790864" source="element1232" target="ent_element1181"/>
+      <arc id="6480655696" source="element1156" target="ent_element1148"/>
+      <arc id="6480590160" source="exi_element1189" target="element1198"/>
+      <arc id="6480792976" source="element1237" target="ent_element1181"/>
+      <arc id="6480657808" source="ent_element1148" target="element1149"/>
+      <arc id="6480655792" source="element1201" target="ent_element1190"/>
+      <arc id="6480590256" source="exi_element1180" target="element1211"/>
+      <arc id="6480784880" source="element1159" target="ent_element1148"/>
+      <arc id="6480793072" source="element1224" target="ent_element1213"/>
+      <arc id="6480657904" source="exi_element1147" target="element1159"/>
+      <arc id="6480592416" source="exi_element1180" target="element1231"/>
+      <arc id="6480590400" source="ent_element1181" target="element1182"/>
+      <arc id="6480793168" source="element1191" target="ent_element1181"/>
+      <arc id="6480658000" source="exi_element1143" target="element1146"/>
+      <arc id="6480791152" source="element1138" target="exi_element1139"/>
+      <arc id="6480590448" source="exi_element1143" target="element1166"/>
+      <arc id="6480658096" source="exi_element1212" target="element1224"/>
+      <arc id="6480656080" source="element1188" target="exi_element1189"/>
+      <arc id="6480785168" source="element1192" target="ent_element1190"/>
+      <arc id="6480656176" source="element1195" target="ent_element1190"/>
+      <arc id="6480590688" source="exi_element1147" target="element1156"/>
+      <arc id="6480785264" source="element1150" target="ent_element1148"/>
+      <arc id="6480656272" source="element1218" target="ent_element1213"/>
+      <arc id="6480590784" source="source" target="element1138"/>
+      <arc id="6480793552" source="element1146" target="exi_element1147"/>
+      <arc id="6480656368" source="element1211" target="exi_element1212"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="sink">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

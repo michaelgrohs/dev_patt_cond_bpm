@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Create PR", "Create PO" occurs before task "Release PR", while in the model they are mutually exclusive after marking "[ent_element5442]"
+In the model, "Create PO" occurs after "Release PR" instead of "Create PR"

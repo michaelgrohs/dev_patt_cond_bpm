@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, "Activity AV" occurs after the initial state and before "Activity AW"
+In the log, "Activity AW" occurs after "Activity AV" and before "Activity A"
+In the model, "Activity AX" occurs after "Activity AT" and before "Activity AU"

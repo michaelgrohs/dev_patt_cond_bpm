@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 7" occurs after "Purchase SC" and before "Approve SC"
+In the log, "Random activity 5" occurs after "Release PO" and before "Post GR"

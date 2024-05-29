@@ -1,0 +1,6 @@
+#statements:
+4
+In the model, "Activity N" occurs after "Activity L" and before "Activity M"
+In the model, "Activity M" occurs after "Activity N" and before "Activity R"
+In the model, "Activity O" occurs after "Activity L" and before "Activity M"
+In the model, "Activity M" occurs after "Activity O" and before "Activity R"

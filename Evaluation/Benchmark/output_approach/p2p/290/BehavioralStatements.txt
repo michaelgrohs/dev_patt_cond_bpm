@@ -1,0 +1,12 @@
+#statements:
+10
+In the log, after "Release PR", "Create PO" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5452]"
+In the log, after "Create PO", "Release PO" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5452]"
+In the log, after "Release PO", "Post GR" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5452]"
+In the log, after "Release PO", "Post GR" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[ent_element5447]"
+In the log, after "Post GR", "Create PO" occurs before task "Create PO", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Post GR", "Create PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Post GR", "Create PO" occurs before task "Post GR", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Create PO", "Release PO" is repeated while in the model it is not
+In the log, after "Release PO", "Post GR" is repeated while in the model it is not
+In the log, after "Release PR", "Create PO" is repeated while in the model it is not

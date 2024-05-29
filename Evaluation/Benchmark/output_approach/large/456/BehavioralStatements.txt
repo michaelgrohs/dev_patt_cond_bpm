@@ -1,0 +1,10 @@
+#statements:
+8
+In the log, "Activity O" occurs after "Activity D" and before "Activity P"
+In the log, "Activity P" occurs after "Activity O" and before "Activity E"
+In the model, "Activity M" occurs after "Activity I" and before "Activity N"
+In the model, "Activity N" occurs after "Activity M" and before "Activity J"
+In the model, "Activity O" occurs after "Activity I" instead of "Activity D"
+In the model, "Activity P" occurs after "Activity O" instead of "Activity O"
+In the model, "Activity K" occurs after "Activity I" and before "Activity L"
+In the model, "Activity L" occurs after "Activity K" and before "Activity J"

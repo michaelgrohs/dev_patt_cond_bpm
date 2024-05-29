@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Activity A" occurs after the start state and before "Activity B"
+In the model, "Activity B" occurs after "Activity A" and before "Activity C"

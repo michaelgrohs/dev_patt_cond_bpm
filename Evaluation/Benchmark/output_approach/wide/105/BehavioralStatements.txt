@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 5" occurs after "Activity AE" and before "Activity AF"
+In the log, "Random activity 5" occurs after "Activity AF" and before "Activity AF"

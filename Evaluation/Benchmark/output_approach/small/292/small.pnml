@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text></text>
+    </name>
+    <page id="n0">
+      <place id="ent_element4573">
+        <name>
+          <text>ent_element4573</text>
+        </name>
+      </place>
+      <place id="ent_element4557">
+        <name>
+          <text>ent_element4557</text>
+        </name>
+      </place>
+      <place id="exi_element4543">
+        <name>
+          <text>exi_element4543</text>
+        </name>
+      </place>
+      <place id="ent_element4565">
+        <name>
+          <text>ent_element4565</text>
+        </name>
+      </place>
+      <place id="ent_element4538">
+        <name>
+          <text>ent_element4538</text>
+        </name>
+      </place>
+      <place id="ent_element4536">
+        <name>
+          <text>ent_element4536</text>
+        </name>
+      </place>
+      <place id="ent_element4540">
+        <name>
+          <text>ent_element4540</text>
+        </name>
+      </place>
+      <place id="ent_element4560">
+        <name>
+          <text>ent_element4560</text>
+        </name>
+      </place>
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="ent_element4544">
+        <name>
+          <text>ent_element4544</text>
+        </name>
+      </place>
+      <place id="ent_element4547">
+        <name>
+          <text>ent_element4547</text>
+        </name>
+      </place>
+      <place id="exi_element4556">
+        <name>
+          <text>exi_element4556</text>
+        </name>
+      </place>
+      <place id="ent_element4550">
+        <name>
+          <text>ent_element4550</text>
+        </name>
+      </place>
+      <place id="ent_element4549">
+        <name>
+          <text>ent_element4549</text>
+        </name>
+      </place>
+      <place id="ent_element4542">
+        <name>
+          <text>ent_element4542</text>
+        </name>
+      </place>
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <transition id="element4546">
+        <name>
+          <text>Activity G</text>
+        </name>
+      </transition>
+      <transition id="element4558">
+        <name>
+          <text>Activity L</text>
+        </name>
+      </transition>
+      <transition id="element4540">
+        <name>
+          <text>Activity D</text>
+        </name>
+      </transition>
+      <transition id="element4559">
+        <name>
+          <text>Activity M</text>
+        </name>
+      </transition>
+      <transition id="element4535">
+        <name>
+          <text>Activity A</text>
+        </name>
+      </transition>
+      <transition id="element4572">
+        <name>
+          <text>Activity R</text>
+        </name>
+      </transition>
+      <transition id="element4549">
+        <name>
+          <text>Activity I</text>
+        </name>
+      </transition>
+      <transition id="element4550">
+        <name>
+          <text>Activity J</text>
+        </name>
+      </transition>
+      <transition id="element4536">
+        <name>
+          <text>Activity B</text>
+        </name>
+      </transition>
+      <transition id="element4538">
+        <name>
+          <text>Activity C</text>
+        </name>
+      </transition>
+      <transition id="element4565">
+        <name>
+          <text>Activity P</text>
+        </name>
+      </transition>
+      <transition id="element4560">
+        <name>
+          <text>Activity N</text>
+        </name>
+      </transition>
+      <transition id="element4573">
+        <name>
+          <text>Activity S</text>
+        </name>
+      </transition>
+      <transition id="element4545">
+        <name>
+          <text>Activity F</text>
+        </name>
+      </transition>
+      <transition id="element4569">
+        <name>
+          <text>Activity Q</text>
+        </name>
+      </transition>
+      <transition id="element4581">
+        <name>
+          <text>Activity T</text>
+        </name>
+      </transition>
+      <transition id="element4547">
+        <name>
+          <text>Activity H</text>
+        </name>
+      </transition>
+      <transition id="element4542">
+        <name>
+          <text>Activity E</text>
+        </name>
+      </transition>
+      <transition id="element4564">
+        <name>
+          <text>Activity O</text>
+        </name>
+      </transition>
+      <transition id="element4555">
+        <name>
+          <text>Activity K</text>
+        </name>
+      </transition>
+      <arc id="5611058176" source="ent_element4540" target="element4540"/>
+      <arc id="5621064704" source="ent_element4542" target="element4542"/>
+      <arc id="5615508640" source="exi_element4543" target="element4581"/>
+      <arc id="5621066768" source="ent_element4560" target="element4560"/>
+      <arc id="5615508544" source="exi_element4556" target="element4564"/>
+      <arc id="5615506816" source="element4565" target="ent_element4557"/>
+      <arc id="5615508352" source="ent_element4544" target="element4545"/>
+      <arc id="5615506528" source="element4545" target="sink"/>
+      <arc id="5615508256" source="exi_element4543" target="element4546"/>
+      <arc id="5615506432" source="element4549" target="ent_element4550"/>
+      <arc id="5615508064" source="element4569" target="ent_element4557"/>
+      <arc id="5615506336" source="element4581" target="ent_element4544"/>
+      <arc id="5615536832" source="element4560" target="ent_element4557"/>
+      <arc id="5615506624" source="element4573" target="ent_element4557"/>
+      <arc id="5615508160" source="element4536" target="ent_element4538"/>
+      <arc id="5615506240" source="element4564" target="ent_element4565"/>
+      <arc id="5615537888" source="element4540" target="ent_element4542"/>
+      <arc id="5615507680" source="element4558" target="ent_element4544"/>
+      <arc id="5615507872" source="element4546" target="ent_element4547"/>
+      <arc id="5615507776" source="element4555" target="exi_element4556"/>
+      <arc id="5615537600" source="element4572" target="ent_element4573"/>
+      <arc id="5621010240" source="ent_element4550" target="element4550"/>
+      <arc id="5621066048" source="ent_element4565" target="element4565"/>
+      <arc id="5615507584" source="element4550" target="ent_element4544"/>
+      <arc id="5615505856" source="element4542" target="exi_element4543"/>
+      <arc id="5621064560" source="ent_element4549" target="element4549"/>
+      <arc id="5615509120" source="source" target="element4535"/>
+      <arc id="5626465152" source="ent_element4538" target="element4538"/>
+      <arc id="5611057552" source="ent_element4547" target="element4547"/>
+      <arc id="5615509024" source="ent_element4557" target="element4558"/>
+      <arc id="5615507296" source="element4535" target="ent_element4536"/>
+      <arc id="5615508928" source="exi_element4556" target="element4559"/>
+      <arc id="5615507200" source="element4547" target="ent_element4549"/>
+      <arc id="5589708224" source="ent_element4536" target="element4536"/>
+      <arc id="5615508832" source="exi_element4543" target="element4555"/>
+      <arc id="5621007840" source="ent_element4573" target="element4573"/>
+      <arc id="5615506912" source="element4538" target="ent_element4540"/>
+      <arc id="5615508448" source="exi_element4556" target="element4569"/>
+      <arc id="5615508736" source="exi_element4556" target="element4572"/>
+      <arc id="5615507008" source="element4559" target="ent_element4560"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="sink">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

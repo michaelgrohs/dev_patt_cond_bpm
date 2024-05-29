@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Late" />
+		<string key="concept:name" value="4014" />
+		<int key="id" value="496" />
+		<event>
+			<string key="concept:name" value="Create SC" />
+			<date key="time:timestamp" value="2010-04-02T15:14:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Purchase SC" />
+			<date key="time:timestamp" value="2010-04-02T15:15:00" />
+			<string key="org:resource" value="Paul" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Approve SC" />
+			<date key="time:timestamp" value="2010-04-02T15:17:00" />
+			<string key="org:resource" value="Hugo" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create PO" />
+			<date key="time:timestamp" value="2010-04-02T15:18:00" />
+			<string key="org:resource" value="Wilton" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Approve PO 1" />
+			<date key="time:timestamp" value="2010-04-02T15:20:00" />
+			<string key="org:resource" value="Issac" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Approve PO 2" />
+			<date key="time:timestamp" value="2010-04-02T15:21:00" />
+			<string key="org:resource" value="Sherell" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Release PO" />
+			<date key="time:timestamp" value="2010-04-02T15:23:00" />
+			<string key="org:resource" value="Chan" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post GR" />
+			<date key="time:timestamp" value="2010-04-02T15:24:00" />
+			<string key="org:resource" value="Doretta" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Approve PO 3" />
+			<date key="time:timestamp" value="2010-04-02T15:25:00" />
+			<string key="org:resource" value="Alyce" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post IR" />
+			<date key="time:timestamp" value="2010-04-02T15:27:00" />
+			<string key="org:resource" value="Brian" />
+			<int key="id" value="496" />
+		</event>
+		<event>
+			<string key="concept:name" value="Pay" />
+			<date key="time:timestamp" value="2010-04-02T15:28:00" />
+			<string key="org:resource" value="Lannie" />
+			<int key="id" value="496" />
+		</event>
+	</trace>
+</log>

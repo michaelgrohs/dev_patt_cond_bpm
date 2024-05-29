@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Release PO", "Goods Receipt" occurs before task "Pay", while in the model they are mutually exclusive after marking "[exi_Gateway_1s1y1ba,ent_Activity_1scn6jh]"
+In the log, after "Invoice Receipt", "Pay" is repeated while in the model it is not

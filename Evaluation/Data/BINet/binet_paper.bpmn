@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns="http://www.omg.org/spec/BPMN/20100524/MODEL" id="definitions_20e0369f-6141-42ec-914b-a4538541e74c" targetNamespace="http://plg.processmining.it/" exporter="bpmn-js (https://demo.bpmn.io)" exporterVersion="14.0.0">
+  <process id="Process_1">
+    <startEvent id="element138" name="Start" />
+    <endEvent id="element139" name="End">
+      <incoming>element153-element139</incoming>
+    </endEvent>
+    <task id="element140" name="Research Related Work" />
+    <task id="element141" name="Develop Method" />
+    <task id="element142" name="Develop Hypothesis" />
+    <task id="element143" name="Identify Problem" />
+    <task id="element144" name="Experiment" />
+    <task id="element145" name="Conduct Study" />
+    <task id="element146" name="Evaluate" />
+    <task id="element147" name="Conclude" />
+    <task id="element148" name="Submit" />
+    <task id="element149" name="Revise" />
+    <task id="element150" name="Submit" />
+    <task id="element151" name="Review" />
+    <task id="element152" name="Minor Revision" />
+    <task id="element153" name="Final Decision" />
+    <exclusiveGateway id="element154" />
+    <exclusiveGateway id="element155" />
+    <exclusiveGateway id="element156" />
+    <exclusiveGateway id="element157" />
+    <sequenceFlow id="element138-element143" isImmediate="true" sourceRef="element138" targetRef="element143" />
+    <sequenceFlow id="element143-element140" isImmediate="true" sourceRef="element143" targetRef="element140" />
+    <sequenceFlow id="element140-element154" isImmediate="true" sourceRef="element140" targetRef="element154" />
+    <sequenceFlow id="element154-element142" isImmediate="true" sourceRef="element154" targetRef="element142" />
+    <sequenceFlow id="element154-element141" isImmediate="true" sourceRef="element154" targetRef="element141" />
+    <sequenceFlow id="element141-element155" isImmediate="true" sourceRef="element141" targetRef="element155" />
+    <sequenceFlow id="element142-element155" isImmediate="true" sourceRef="element142" targetRef="element155" />
+    <sequenceFlow id="element155-element144" isImmediate="true" sourceRef="element155" targetRef="element144" />
+    <sequenceFlow id="element144-element156" isImmediate="true" sourceRef="element144" targetRef="element156" />
+    <sequenceFlow id="element156-element145" isImmediate="true" sourceRef="element156" targetRef="element145" />
+    <sequenceFlow id="element156-element146" isImmediate="true" sourceRef="element156" targetRef="element146" />
+    <sequenceFlow id="element145-element157" isImmediate="true" sourceRef="element145" targetRef="element157" />
+    <sequenceFlow id="element146-element157" isImmediate="true" sourceRef="element146" targetRef="element157" />
+    <sequenceFlow id="element157-element147" isImmediate="true" sourceRef="element157" targetRef="element147" />
+    <sequenceFlow id="element147-element148" isImmediate="true" sourceRef="element147" targetRef="element148" />
+    <sequenceFlow id="element148-element151" isImmediate="true" sourceRef="element148" targetRef="element151" />
+    <sequenceFlow id="element149-element150" isImmediate="true" sourceRef="element149" targetRef="element150" />
+    <sequenceFlow id="element150-element153" isImmediate="true" sourceRef="element150" targetRef="element153" />
+    <sequenceFlow id="element153-element139" isImmediate="true" sourceRef="element153" targetRef="element139" />
+    <sequenceFlow id="element152-element149" isImmediate="true" sourceRef="element152" targetRef="element149" />
+    <sequenceFlow id="element151-element152" isImmediate="true" sourceRef="element151" targetRef="element152" />
+    <sequenceFlow id="element151-element153" isImmediate="true" sourceRef="element151" targetRef="element153" />
+  </process>
+  <bpmndi:BPMNDiagram id="diagram" name="diagram" documentation="bpmn diagram element" resolution="120">
+    <bpmndi:BPMNPlane id="plane" bpmnElement="Process_1">
+      <bpmndi:BPMNShape id="shape138" bpmnElement="element138">
+        <dc:Bounds x="155" y="105" width="20" height="20" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="153" y="125" width="24" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape139" bpmnElement="element139">
+        <dc:Bounds x="2274" y="111" width="20" height="20" />
+        <bpmndi:BPMNLabel>
+          <dc:Bounds x="2274" y="131" width="20" height="14" />
+        </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape140" bpmnElement="element140">
+        <dc:Bounds x="391" y="110" width="150" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape141" bpmnElement="element141">
+        <dc:Bounds x="681" y="140" width="110" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape142" bpmnElement="element142">
+        <dc:Bounds x="671" y="80" width="130" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape143" bpmnElement="element143">
+        <dc:Bounds x="231" y="110" width="110" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape144" bpmnElement="element144">
+        <dc:Bounds x="931" y="110" width="90" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape145" bpmnElement="element145">
+        <dc:Bounds x="1151" y="80" width="100" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape146" bpmnElement="element146">
+        <dc:Bounds x="1166" y="140" width="70" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape147" bpmnElement="element147">
+        <dc:Bounds x="1381" y="110" width="80" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape148" bpmnElement="element148">
+        <dc:Bounds x="1511" y="112" width="60" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape149" bpmnElement="element149">
+        <dc:Bounds x="1881" y="95" width="60" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape150" bpmnElement="element150">
+        <dc:Bounds x="1991" y="95" width="80" height="30" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape151" bpmnElement="element151">
+        <dc:Bounds x="1621" y="114" width="60" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape152" bpmnElement="element152">
+        <dc:Bounds x="1731" y="95" width="100" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape153" bpmnElement="element153">
+        <dc:Bounds x="2121" y="116" width="100" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape154" bpmnElement="element154" isMarkerVisible="true">
+        <dc:Bounds x="591" y="110" width="30" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape155" bpmnElement="element155" isMarkerVisible="true">
+        <dc:Bounds x="851" y="110" width="30" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape156" bpmnElement="element156" isMarkerVisible="true">
+        <dc:Bounds x="1071" y="110" width="30" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="shape157" bpmnElement="element157" isMarkerVisible="true">
+        <dc:Bounds x="1301" y="110" width="30" height="30" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="flowEdgeelement138-element143" bpmnElement="element138-element143">
+        <di:waypoint x="176" y="125" />
+        <di:waypoint x="193" y="125" />
+        <di:waypoint x="219" y="125" />
+        <di:waypoint x="231" y="125" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement143-element140" bpmnElement="element143-element140">
+        <di:waypoint x="341" y="125" />
+        <di:waypoint x="353" y="125" />
+        <di:waypoint x="379" y="125" />
+        <di:waypoint x="391" y="125" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement140-element154" bpmnElement="element140-element154">
+        <di:waypoint x="541" y="125" />
+        <di:waypoint x="553" y="125" />
+        <di:waypoint x="579" y="125" />
+        <di:waypoint x="591" y="125" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement154-element142" bpmnElement="element154-element142">
+        <di:waypoint x="621" y="120" />
+        <di:waypoint x="633" y="120" />
+        <di:waypoint x="659" y="95" />
+        <di:waypoint x="671" y="95" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement154-element141" bpmnElement="element154-element141">
+        <di:waypoint x="621" y="130" />
+        <di:waypoint x="633" y="130" />
+        <di:waypoint x="659" y="155" />
+        <di:waypoint x="681" y="155" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement141-element155" bpmnElement="element141-element155">
+        <di:waypoint x="791" y="155" />
+        <di:waypoint x="813" y="155" />
+        <di:waypoint x="839" y="130" />
+        <di:waypoint x="851" y="130" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement142-element155" bpmnElement="element142-element155">
+        <di:waypoint x="801" y="95" />
+        <di:waypoint x="813" y="95" />
+        <di:waypoint x="839" y="120" />
+        <di:waypoint x="851" y="120" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement155-element144" bpmnElement="element155-element144">
+        <di:waypoint x="881" y="125" />
+        <di:waypoint x="893" y="125" />
+        <di:waypoint x="919" y="125" />
+        <di:waypoint x="931" y="125" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement144-element156" bpmnElement="element144-element156">
+        <di:waypoint x="1021" y="125" />
+        <di:waypoint x="1033" y="125" />
+        <di:waypoint x="1059" y="125" />
+        <di:waypoint x="1071" y="125" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement156-element145" bpmnElement="element156-element145">
+        <di:waypoint x="1101" y="120" />
+        <di:waypoint x="1113" y="120" />
+        <di:waypoint x="1139" y="95" />
+        <di:waypoint x="1151" y="95" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement156-element146" bpmnElement="element156-element146">
+        <di:waypoint x="1101" y="130" />
+        <di:waypoint x="1113" y="130" />
+        <di:waypoint x="1139" y="155" />
+        <di:waypoint x="1166" y="155" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement145-element157" bpmnElement="element145-element157">
+        <di:waypoint x="1251" y="95" />
+        <di:waypoint x="1263" y="95" />
+        <di:waypoint x="1289" y="120" />
+        <di:waypoint x="1301" y="120" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement146-element157" bpmnElement="element146-element157">
+        <di:waypoint x="1236" y="155" />
+        <di:waypoint x="1263" y="155" />
+        <di:waypoint x="1289" y="130" />
+        <di:waypoint x="1301" y="130" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement157-element147" bpmnElement="element157-element147">
+        <di:waypoint x="1331" y="125" />
+        <di:waypoint x="1343" y="125" />
+        <di:waypoint x="1369" y="125" />
+        <di:waypoint x="1381" y="125" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement147-element148" bpmnElement="element147-element148">
+        <di:waypoint x="1461" y="125" />
+        <di:waypoint x="1473" y="125" />
+        <di:waypoint x="1499" y="127" />
+        <di:waypoint x="1511" y="127" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement148-element151" bpmnElement="element148-element151">
+        <di:waypoint x="1571" y="127" />
+        <di:waypoint x="1583" y="127" />
+        <di:waypoint x="1609" y="129" />
+        <di:waypoint x="1621" y="129" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement149-element150" bpmnElement="element149-element150">
+        <di:waypoint x="1941" y="110" />
+        <di:waypoint x="1953" y="110" />
+        <di:waypoint x="1979" y="110" />
+        <di:waypoint x="1991" y="110" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement150-element153" bpmnElement="element150-element153">
+        <di:waypoint x="2071" y="110" />
+        <di:waypoint x="2083" y="110" />
+        <di:waypoint x="2109" y="126" />
+        <di:waypoint x="2121" y="126" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement153-element139" bpmnElement="element153-element139">
+        <di:waypoint x="2221" y="131" />
+        <di:waypoint x="2233" y="131" />
+        <di:waypoint x="2259" y="131" />
+        <di:waypoint x="2274" y="131" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement152-element149" bpmnElement="element152-element149">
+        <di:waypoint x="1831" y="110" />
+        <di:waypoint x="1843" y="110" />
+        <di:waypoint x="1869" y="110" />
+        <di:waypoint x="1881" y="110" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement151-element152" bpmnElement="element151-element152">
+        <di:waypoint x="1681" y="124" />
+        <di:waypoint x="1693" y="124" />
+        <di:waypoint x="1719" y="110" />
+        <di:waypoint x="1731" y="110" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="flowEdgeelement151-element153" bpmnElement="element151-element153">
+        <di:waypoint x="1681" y="134" />
+        <di:waypoint x="1693" y="134" />
+        <di:waypoint x="1706" y="155" />
+        <di:waypoint x="1856" y="155" />
+        <di:waypoint x="1856" y="155" />
+        <di:waypoint x="1966" y="155" />
+        <di:waypoint x="1966" y="155" />
+        <di:waypoint x="2096" y="155" />
+        <di:waypoint x="2109" y="136" />
+        <di:waypoint x="2121" y="136" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</definitions>

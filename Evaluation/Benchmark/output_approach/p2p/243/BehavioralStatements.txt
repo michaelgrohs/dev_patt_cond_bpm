@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 3" occurs after "Approve PO 1" and before "Release PO"
+In the log, "Random activity 11" occurs after "Post GR" and before "Post IR"

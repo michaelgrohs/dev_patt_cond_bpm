@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, after "Create PO", "Sign PO" is substituted by "Approve PR"
+In the log, after "Create PR", "Approve PR" is repeated while in the model it is not
+In the model, "Sign PO" occurs after "Create PO" and before "Release PO"

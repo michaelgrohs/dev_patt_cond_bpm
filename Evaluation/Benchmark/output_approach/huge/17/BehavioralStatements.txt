@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Activity AR" occurs after "Activity AQ" and before "Activity AS"
+In the model, "Activity AS" occurs after "Activity AR" and before "Activity AJ"

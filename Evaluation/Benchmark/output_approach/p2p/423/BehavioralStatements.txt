@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Release PO" occurs after "Approve PO 3" and before "Post GR"
+In the model, "Post GR" occurs after "Release PO" and before "Post IR"

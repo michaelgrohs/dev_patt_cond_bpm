@@ -1,0 +1,7 @@
+Alignments per Case Type:
+Case Type, Represented number of traces,alignment(task) #1,alignment(task) #2,alignment(task) #3,...
+
+1,1000,LMGOOD( Create PR),L( Goods Receipt),L( Invoice Receipt),L( Pay),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),MREAL( Service Receipt),MREAL( Invoice Receipt),MREAL( Pay)
+1,1000,LMGOOD( Create PR),L( Goods Receipt),L( Invoice Receipt),L( Pay),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),MREAL( Invoice Receipt),MREAL( Service Receipt),MREAL( Pay)
+1,1000,LMGOOD( Create PR),L( Goods Receipt),L( Invoice Receipt),L( Pay),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),MREAL( Invoice Receipt),MREAL( Goods Receipt),MREAL( Pay)
+1,1000,LMGOOD( Create PR),L( Goods Receipt),L( Invoice Receipt),L( Pay),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),MREAL( Goods Receipt),MREAL( Invoice Receipt),MREAL( Pay)

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Purchase SC", "Approve SC" is repeated while in the model it is not
+In the log, after "Approve SC", "Create PO" is repeated while in the model it is not

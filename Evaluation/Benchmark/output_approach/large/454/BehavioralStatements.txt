@@ -1,0 +1,9 @@
+#statements:
+7
+In the model, "Activity AJ" occurs after "Activity AG" and before "Activity AH"
+In the log, after "Activity AH", "Activity AL" occurs before task "Activity AG", while in the model they are mutually exclusive after marking "[ent_element2815]"
+In the log, after "Activity AH", "Activity AL" occurs before task "Activity AI", while in the model they are mutually exclusive after marking "[ent_element2815]"
+In the model, "Activity AH" occurs after "Activity AI" instead of "Activity AC"
+In the model, "Activity AL" occurs after "Activity AH" instead of "Activity AH"
+In the model, "Activity AK" occurs after "Activity AG" and before "Activity AH"
+In the log, "Activity AI" occurs after "Activity AG" and before "Activity AO"

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Rework" />
+		<string key="concept:name" value="3627" />
+		<int key="id" value="443" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-01-24T02:26:00" />
+			<string key="org:resource" value="Della" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity N" />
+			<date key="time:timestamp" value="2010-01-24T02:28:00" />
+			<string key="org:resource" value="Roseanne" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Y" />
+			<date key="time:timestamp" value="2010-01-24T02:29:00" />
+			<string key="org:resource" value="Issac" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AD" />
+			<date key="time:timestamp" value="2010-01-24T02:31:00" />
+			<string key="org:resource" value="Brant" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Z" />
+			<date key="time:timestamp" value="2010-01-24T02:32:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="2010-01-24T02:34:00" />
+			<string key="org:resource" value="Hoyt" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-24T02:35:00" />
+			<string key="org:resource" value="Tiffiny" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Z" />
+			<date key="time:timestamp" value="2010-01-24T02:36:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="2010-01-24T02:38:00" />
+			<string key="org:resource" value="Hoyt" />
+			<int key="id" value="443" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-24T02:39:00" />
+			<string key="org:resource" value="Tiffiny" />
+			<int key="id" value="443" />
+		</event>
+	</trace>
+</log>

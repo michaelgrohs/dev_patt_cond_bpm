@@ -1,0 +1,9 @@
+#statements:
+7
+In the log, after "Activity R", "Activity AC" occurs before task "Activity AF", while in the model they are mutually exclusive after marking "[exi_element538]"
+In the log, after "Activity AC", "Activity AF" occurs before task "Activity AF", while in the model they are mutually exclusive after marking "[ent_element537]"
+In the log, after "Activity AC", "Activity AF" occurs before task "Activity R", while in the model they are mutually exclusive after marking "[ent_element537]"
+In the log, after "Activity AC", "Activity AF" occurs before task "Activity AC", while in the model they are mutually exclusive after marking "[ent_element537]"
+In the log, after "Activity M", "Activity R" is repeated while in the model it is not
+In the log, after "Activity R", "Activity AC" is repeated while in the model it is not
+In the log, after "Activity AC", "Activity AF" is repeated while in the model it is not

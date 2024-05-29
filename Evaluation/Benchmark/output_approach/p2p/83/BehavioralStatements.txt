@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Create PR" occurs after the start state and before "Release PR"
+In the model, "Release PR" occurs after "Create PR" and before "Create PO"

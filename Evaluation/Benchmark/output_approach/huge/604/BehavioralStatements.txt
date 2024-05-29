@@ -1,0 +1,3 @@
+#statements:
+1
+In the model, "Activity AX" occurs after "Activity AT" and before "Activity AU"

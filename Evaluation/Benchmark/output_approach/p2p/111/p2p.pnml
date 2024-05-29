@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text></text>
+    </name>
+    <page id="n0">
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <place id="exi_element5453">
+        <name>
+          <text>exi_element5453</text>
+        </name>
+      </place>
+      <place id="ent_element5444">
+        <name>
+          <text>ent_element5444</text>
+        </name>
+      </place>
+      <place id="exi_element5454">
+        <name>
+          <text>exi_element5454</text>
+        </name>
+      </place>
+      <place id="ent_element5443">
+        <name>
+          <text>ent_element5443</text>
+        </name>
+      </place>
+      <place id="ent_element5447">
+        <name>
+          <text>ent_element5447</text>
+        </name>
+      </place>
+      <place id="ent_element5446">
+        <name>
+          <text>ent_element5446</text>
+        </name>
+      </place>
+      <place id="exi_element5455">
+        <name>
+          <text>exi_element5455</text>
+        </name>
+      </place>
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="ent_element5452">
+        <name>
+          <text>ent_element5452</text>
+        </name>
+      </place>
+      <place id="ent_element5451">
+        <name>
+          <text>ent_element5451</text>
+        </name>
+      </place>
+      <place id="ent_element5442">
+        <name>
+          <text>ent_element5442</text>
+        </name>
+      </place>
+      <place id="exi_element5456">
+        <name>
+          <text>exi_element5456</text>
+        </name>
+      </place>
+      <place id="ent_element5441">
+        <name>
+          <text>ent_element5441</text>
+        </name>
+      </place>
+      <transition id="element5448">
+        <name>
+          <text>Create PR</text>
+        </name>
+      </transition>
+      <transition id="element5440">
+        <name>
+          <text>Approve PO 1</text>
+        </name>
+      </transition>
+      <transition id="element5445">
+        <name>
+          <text>Create PO</text>
+        </name>
+      </transition>
+      <transition id="element5439">
+        <name>
+          <text>Create SC</text>
+        </name>
+      </transition>
+      <transition id="element5446">
+        <name>
+          <text>Post IR</text>
+        </name>
+      </transition>
+      <transition id="ecb5ab71-67e8-43e7-a715-318963d7bae4">
+        <name>
+          <text>ecb5ab71-67e8-43e7-a715-318963d7bae4</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="66982717-acde-464e-9454-ed11d3d315d4"/>
+      </transition>
+      <transition id="316220b0-05de-4419-be2d-c755d6f45547">
+        <name>
+          <text>316220b0-05de-4419-be2d-c755d6f45547</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="5065830b-afc8-4aad-bcf7-3771a5c23203"/>
+      </transition>
+      <transition id="element5444">
+        <name>
+          <text>Approve SC</text>
+        </name>
+      </transition>
+      <transition id="00d33c52-c1b0-45da-93e5-1f60cd8a487d">
+        <name>
+          <text>00d33c52-c1b0-45da-93e5-1f60cd8a487d</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="65797c2d-54c5-4cfb-a7ef-b5fbac6cf521"/>
+      </transition>
+      <transition id="element5441">
+        <name>
+          <text>Purchase SC</text>
+        </name>
+      </transition>
+      <transition id="5b1902cb-aa1b-4bef-a87b-c12158379fe7">
+        <name>
+          <text>5b1902cb-aa1b-4bef-a87b-c12158379fe7</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="d7824681-8373-4b94-ab82-7a0599268822"/>
+      </transition>
+      <transition id="element5451">
+        <name>
+          <text>Release PO</text>
+        </name>
+      </transition>
+      <transition id="element5450">
+        <name>
+          <text>Approve PO 3</text>
+        </name>
+      </transition>
+      <transition id="element5447">
+        <name>
+          <text>Post GR</text>
+        </name>
+      </transition>
+      <transition id="element5443">
+        <name>
+          <text>Pay</text>
+        </name>
+      </transition>
+      <transition id="element5442">
+        <name>
+          <text>Release PR</text>
+        </name>
+      </transition>
+      <transition id="element5449">
+        <name>
+          <text>Approve PO 2</text>
+        </name>
+      </transition>
+      <arc id="5646080512" source="element5450" target="ent_element5451"/>
+      <arc id="5634419728" source="element5448" target="ent_element5442"/>
+      <arc id="5646079552" source="element5443" target="sink"/>
+      <arc id="5646078544" source="element5451" target="ent_element5447"/>
+      <arc id="5647312976" source="exi_element5453" target="element5448"/>
+      <arc id="5634417760" source="ecb5ab71-67e8-43e7-a715-318963d7bae4" target="ent_element5451"/>
+      <arc id="5887425648" source="ent_element5441" target="element5441"/>
+      <arc id="5646078064" source="element5440" target="exi_element5455"/>
+      <arc id="5646081136" source="element5449" target="exi_element5456"/>
+      <arc id="5647312496" source="element5442" target="ent_element5452"/>
+      <arc id="5634417328" source="316220b0-05de-4419-be2d-c755d6f45547" target="ent_element5451"/>
+      <arc id="5647313600" source="exi_element5455" target="element5449"/>
+      <arc id="6494228688" source="ent_element5443" target="element5443"/>
+      <arc id="6438393552" source="ent_element5451" target="element5451"/>
+      <arc id="5647313120" source="ent_element5452" target="element5445"/>
+      <arc id="6494642912" source="exi_element5453" target="element5439"/>
+      <arc id="6494642432" source="exi_element5454" target="element5440"/>
+      <arc id="6495152400" source="source" target="5b1902cb-aa1b-4bef-a87b-c12158379fe7"/>
+      <arc id="5638281008" source="exi_element5455" target="ecb5ab71-67e8-43e7-a715-318963d7bae4"/>
+      <arc id="5646078256" source="element5447" target="ent_element5446"/>
+      <arc id="6494382928" source="ent_element5446" target="element5446"/>
+      <arc id="5646079840" source="element5446" target="ent_element5443"/>
+      <arc id="5646080032" source="element5445" target="exi_element5454"/>
+      <arc id="6495150960" source="ent_element5442" target="element5442"/>
+      <arc id="5634418048" source="element5439" target="ent_element5441"/>
+      <arc id="5646081424" source="5b1902cb-aa1b-4bef-a87b-c12158379fe7" target="exi_element5453"/>
+      <arc id="5634418624" source="element5441" target="ent_element5444"/>
+      <arc id="6494642624" source="exi_element5456" target="element5450"/>
+      <arc id="5887426512" source="ent_element5447" target="element5447"/>
+      <arc id="5640939984" source="exi_element5454" target="316220b0-05de-4419-be2d-c755d6f45547"/>
+      <arc id="6495153120" source="ent_element5444" target="element5444"/>
+      <arc id="5641131488" source="exi_element5456" target="00d33c52-c1b0-45da-93e5-1f60cd8a487d"/>
+      <arc id="5642566624" source="00d33c52-c1b0-45da-93e5-1f60cd8a487d" target="ent_element5451"/>
+      <arc id="5634418672" source="element5444" target="ent_element5452"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="sink">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

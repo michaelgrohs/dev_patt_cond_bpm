@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 12" occurs after "Activity AP" and before "Activity AQ"
+In the log, "Random activity 41" occurs after "Activity AS" and before "Activity AJ"

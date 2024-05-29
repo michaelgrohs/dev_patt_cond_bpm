@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="1619" />
+		<int key="id" value="297" />
+		<event>
+			<string key="concept:name" value="Create SC" />
+			<date key="time:timestamp" value="2010-01-14T23:08:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Purchase SC" />
+			<date key="time:timestamp" value="2010-01-14T23:09:00" />
+			<string key="org:resource" value="Shandi" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Approve SC" />
+			<date key="time:timestamp" value="2010-01-14T23:11:00" />
+			<string key="org:resource" value="Hugo" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create PO" />
+			<date key="time:timestamp" value="2010-01-14T23:12:00" />
+			<string key="org:resource" value="Wilton" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 3" />
+			<date key="time:timestamp" value="2010-01-14T23:13:00" />
+			<string key="org:resource" value="Random user 32" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Approve PO 1" />
+			<date key="time:timestamp" value="2010-01-14T23:15:00" />
+			<string key="org:resource" value="Chan" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 8" />
+			<date key="time:timestamp" value="2010-01-14T23:16:00" />
+			<string key="org:resource" value="Random user 56" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Release PO" />
+			<date key="time:timestamp" value="2010-01-14T23:18:00" />
+			<string key="org:resource" value="Hassie" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post GR" />
+			<date key="time:timestamp" value="2010-01-14T23:19:00" />
+			<string key="org:resource" value="Velda" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post IR" />
+			<date key="time:timestamp" value="2010-01-14T23:21:00" />
+			<string key="org:resource" value="Brian" />
+			<int key="id" value="297" />
+		</event>
+		<event>
+			<string key="concept:name" value="Pay" />
+			<date key="time:timestamp" value="2010-01-14T23:22:00" />
+			<string key="org:resource" value="Lannie" />
+			<int key="id" value="297" />
+		</event>
+	</trace>
+</log>

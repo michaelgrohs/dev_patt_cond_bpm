@@ -1,0 +1,8 @@
+#statements:
+6
+In the model, "Activity I" occurs after "Activity D" instead of "Activity A"
+In the log, "Activity L" occurs after "Activity I" and before "Activity C"
+In the model, "Activity K" occurs after "Activity I" and before "Activity J"
+In the model, "Activity L" occurs after "Activity I" instead of "Activity I"
+In the model, "Activity M" occurs after "Activity I" and before "Activity J"
+In the model, "Activity N" occurs after "Activity I" and before "Activity J"

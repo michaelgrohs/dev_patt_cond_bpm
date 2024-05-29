@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="2314" />
+		<int key="id" value="448" />
+		<event>
+			<string key="concept:name" value="Random activity 37" />
+			<date key="time:timestamp" value="2010-01-20T22:29:00" />
+			<string key="org:resource" value="Random user 60" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-01-20T22:30:00" />
+			<string key="org:resource" value="Velda" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AI" />
+			<date key="time:timestamp" value="2010-01-20T22:32:00" />
+			<string key="org:resource" value="Sharee" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AL" />
+			<date key="time:timestamp" value="2010-01-20T22:33:00" />
+			<string key="org:resource" value="Joe" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AM" />
+			<date key="time:timestamp" value="2010-01-20T22:35:00" />
+			<string key="org:resource" value="Marilyn" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 49" />
+			<date key="time:timestamp" value="2010-01-20T22:36:00" />
+			<string key="org:resource" value="Random user 28" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AN" />
+			<date key="time:timestamp" value="2010-01-20T22:37:00" />
+			<string key="org:resource" value="Vickie" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AO" />
+			<date key="time:timestamp" value="2010-01-20T22:39:00" />
+			<string key="org:resource" value="Jack" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AJ" />
+			<date key="time:timestamp" value="2010-01-20T22:40:00" />
+			<string key="org:resource" value="Charles" />
+			<int key="id" value="448" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-20T22:42:00" />
+			<string key="org:resource" value="Brant" />
+			<int key="id" value="448" />
+		</event>
+	</trace>
+</log>

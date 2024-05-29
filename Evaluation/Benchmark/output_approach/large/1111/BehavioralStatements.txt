@@ -1,0 +1,7 @@
+#statements:
+5
+In the model, "Activity AE" occurs after "Activity AB" and before "Activity AC"
+In the log, after "Activity AB", "Activity AC" occurs before task "Activity AF", while in the model they are mutually exclusive after marking "[exi_element2801]"
+In the model, "Activity AC" occurs after "Activity AF" instead of "Activity AB"
+In the model, "Activity AD" occurs after "Activity AB" and before "Activity AC"
+In the log, "Activity AF" occurs after "Activity AC" and before "Activity AG"

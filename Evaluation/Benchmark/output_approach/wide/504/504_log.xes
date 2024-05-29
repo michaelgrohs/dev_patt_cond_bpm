@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="4259" />
+		<int key="id" value="504" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-01-28T04:24:00" />
+			<string key="org:resource" value="Della" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity N" />
+			<date key="time:timestamp" value="2010-01-28T04:26:00" />
+			<string key="org:resource" value="Earl" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity P" />
+			<date key="time:timestamp" value="2010-01-28T04:27:00" />
+			<string key="org:resource" value="Emily" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity Q" />
+			<date key="time:timestamp" value="2010-01-28T04:29:00" />
+			<string key="org:resource" value="Della" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 8" />
+			<date key="time:timestamp" value="2010-01-28T04:30:00" />
+			<string key="org:resource" value="Random user 16" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="2010-01-28T04:32:00" />
+			<string key="org:resource" value="Shandi" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-28T04:33:00" />
+			<string key="org:resource" value="Grayce" />
+			<int key="id" value="504" />
+		</event>
+	</trace>
+</log>

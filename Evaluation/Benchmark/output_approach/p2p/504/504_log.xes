@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Late" />
+		<string key="concept:name" value="4113" />
+		<int key="id" value="504" />
+		<event>
+			<string key="concept:name" value="Create PR" />
+			<date key="time:timestamp" value="2010-05-02T11:35:00" />
+			<string key="org:resource" value="Lisa" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create PO" />
+			<date key="time:timestamp" value="2010-05-02T11:36:00" />
+			<string key="org:resource" value="Ronald" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Release PO" />
+			<date key="time:timestamp" value="2010-05-02T11:38:00" />
+			<string key="org:resource" value="Hassie" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Release PR" />
+			<date key="time:timestamp" value="2010-05-02T11:39:00" />
+			<string key="org:resource" value="Wilton" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post GR" />
+			<date key="time:timestamp" value="2010-05-02T11:41:00" />
+			<string key="org:resource" value="Velda" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post IR" />
+			<date key="time:timestamp" value="2010-05-02T11:42:00" />
+			<string key="org:resource" value="Brian" />
+			<int key="id" value="504" />
+		</event>
+		<event>
+			<string key="concept:name" value="Pay" />
+			<date key="time:timestamp" value="2010-05-02T11:44:00" />
+			<string key="org:resource" value="Lannie" />
+			<int key="id" value="504" />
+		</event>
+	</trace>
+</log>

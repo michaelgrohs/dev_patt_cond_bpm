@@ -1,0 +1,10 @@
+#statements:
+8
+In the model, "Activity AC" occurs after "Activity Y" and before "Activity Z"
+In the model, "Activity Z" occurs after "Activity AC" and before "Activity O"
+In the model, "Activity AA" occurs after "Activity Y" and before "Activity Z"
+In the model, "Activity Z" occurs after "Activity AA" and before "Activity O"
+In the model, "Activity AB" occurs after "Activity Y" and before "Activity Z"
+In the model, "Activity Z" occurs after "Activity AB" and before "Activity O"
+In the model, "Activity AD" occurs after "Activity Y" and before "Activity Z"
+In the model, "Activity Z" occurs after "Activity AD" and before "Activity O"

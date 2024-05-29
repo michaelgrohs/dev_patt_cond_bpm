@@ -1,0 +1,8 @@
+#statements:
+6
+In the model, "Create PO" occurs after "Approve PR" and before "Sign PO"
+In the model, "Release PO" occurs after "Sign PO" and before "Service Receipt"
+In the model, "Service Receipt" occurs after "Release PO" and before "Invoice Receipt"
+In the model, "Goods Receipt" occurs after "Release PO" and before "Invoice Receipt"
+In the model, "Service Receipt" occurs after "Invoice Receipt" and before "Pay"
+In the model, "Goods Receipt" occurs after "Invoice Receipt" and before "Pay"

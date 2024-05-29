@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 4" occurs after the initial state and before "Create PR"
+In the log, "Random activity 2" occurs after "Post GR" and before "Post IR"

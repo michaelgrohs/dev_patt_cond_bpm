@@ -1,0 +1,6 @@
+#statements:
+4
+In the log, after "Activity AM", "Activity AN" occurs before task "Activity AI", while in the model they are mutually exclusive after marking "[exi_element492]"
+In the log, after "Activity AM", "Activity AN" occurs before task "Activity AL", while in the model they are mutually exclusive after marking "[exi_element492]"
+In the model, "Activity AM" occurs after "Activity AL" instead of "Activity A"
+In the model, "Activity AN" occurs after "Activity AM" instead of "Activity AM"

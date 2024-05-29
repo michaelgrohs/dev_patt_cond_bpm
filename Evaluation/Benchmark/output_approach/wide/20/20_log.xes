@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="SkipSequence" />
+		<string key="concept:name" value="98" />
+		<int key="id" value="20" />
+		<event>
+			<string key="concept:name" value="Activity N" />
+			<date key="time:timestamp" value="2010-01-01T14:51:00" />
+			<string key="org:resource" value="Brant" />
+			<int key="id" value="20" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AG" />
+			<date key="time:timestamp" value="2010-01-01T14:52:00" />
+			<string key="org:resource" value="Sandra" />
+			<int key="id" value="20" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AH" />
+			<date key="time:timestamp" value="2010-01-01T14:54:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="20" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="2010-01-01T14:55:00" />
+			<string key="org:resource" value="Howard" />
+			<int key="id" value="20" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-01T14:57:00" />
+			<string key="org:resource" value="Grayce" />
+			<int key="id" value="20" />
+		</event>
+	</trace>
+</log>

@@ -1,0 +1,8 @@
+#statements:
+6
+In the log, after "Activity A", "Activity O" occurs before task "Activity S", while in the model they are mutually exclusive after marking "[exi_element1768]"
+In the log, after "Activity O", "Activity S" occurs before task "Activity S", while in the model they are mutually exclusive after marking "[exi_element1768]"
+In the log, after "Activity O", "Activity S" occurs before task "Activity S", while in the model they are mutually exclusive after marking "[exi_element1811]"
+In the log, after "Activity S", "Activity O" occurs before task "Activity S", while in the model they are mutually exclusive after marking "[exi_element1811]"
+In the log, after "Activity A", "Activity O" is repeated while in the model it is not
+In the log, after "Activity O", "Activity S" is repeated while in the model it is not

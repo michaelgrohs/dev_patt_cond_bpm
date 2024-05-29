@@ -1,0 +1,3 @@
+#statements:
+1
+In the model, "Create PO" occurs after "Release PR" and before "Approve PO 1"

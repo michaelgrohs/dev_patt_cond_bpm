@@ -1,0 +1,15 @@
+Alignments per Case Type:,,,,,,,,,,,,,
+Case Type, Represented number of traces,alignment(task) #1,alignment(task) #2,alignment(task) #3,...,,,,,,,,
+,,,,,,,,,,,,,
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),L( Create PO),L( Sign PO),LMGOOD( Release PO),LMGOOD( Service Receipt),L( Service Receipt),LMGOOD( Invoice Receipt),LMGOOD( Pay),L( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),L( Create PO),L( Sign PO),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),LMGOOD( Service Receipt),L( Service Receipt),LMGOOD( Invoice Receipt),LMGOOD( Pay),L( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),L( Create PO),L( Sign PO),LMGOOD( Release PO),L( Service Receipt),LMGOOD( Service Receipt),LMGOOD( Invoice Receipt),L( Pay),LMGOOD( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),L( Sign PO),L( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),LMGOOD( Service Receipt),L( Service Receipt),LMGOOD( Invoice Receipt),LMGOOD( Pay),L( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),L( Create PO),L( Sign PO),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),L( Service Receipt),LMGOOD( Service Receipt),LMGOOD( Invoice Receipt),L( Pay),LMGOOD( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),L( Create PO),L( Sign PO),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),LMGOOD( Service Receipt),L( Service Receipt),LMGOOD( Invoice Receipt),L( Pay),LMGOOD( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),L( Sign PO),L( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),L( Service Receipt),LMGOOD( Service Receipt),LMGOOD( Invoice Receipt),L( Pay),LMGOOD( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),L( Create PO),L( Sign PO),LMGOOD( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),L( Service Receipt),LMGOOD( Service Receipt),LMGOOD( Invoice Receipt),LMGOOD( Pay),L( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),L( Sign PO),L( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),LMGOOD( Service Receipt),L( Service Receipt),LMGOOD( Invoice Receipt),L( Pay),LMGOOD( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),L( Create PO),L( Sign PO),LMGOOD( Release PO),LMGOOD( Service Receipt),L( Service Receipt),LMGOOD( Invoice Receipt),L( Pay),LMGOOD( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),LMGOOD( Sign PO),L( Create PO),L( Sign PO),LMGOOD( Release PO),L( Service Receipt),LMGOOD( Service Receipt),LMGOOD( Invoice Receipt),LMGOOD( Pay),L( Pay)
+1,1000,LMGOOD( Create PR),LMGOOD( Approve PR),LMGOOD( Create PO),L( Sign PO),L( Create PO),LMGOOD( Sign PO),LMGOOD( Release PO),L( Service Receipt),LMGOOD( Service Receipt),LMGOOD( Invoice Receipt),LMGOOD( Pay),L( Pay)

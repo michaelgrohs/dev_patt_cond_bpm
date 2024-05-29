@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 8" occurs after the initial state and before "Create SC"
+In the log, "Random activity 1" occurs after "Create SC" and before "Purchase SC"

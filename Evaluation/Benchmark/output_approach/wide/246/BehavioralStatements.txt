@@ -1,0 +1,10 @@
+#statements:
+8
+In the model, "Activity AB" occurs after "Activity Y" and before "Activity Z"
+In the log, after "Activity Z", "Activity O" occurs before task "Activity Y", while in the model they are mutually exclusive after marking "[exi_element1180]"
+In the log, after "Activity Z", "Activity O" occurs before task "Activity AD", while in the model they are mutually exclusive after marking "[exi_element1180]"
+In the model, "Activity AA" occurs after "Activity Y" and before "Activity Z"
+In the model, "Activity Z" occurs after "Activity AD" instead of "Activity N"
+In the model, "Activity O" occurs after "Activity Z" instead of "Activity Z"
+In the model, "Activity AC" occurs after "Activity Y" and before "Activity Z"
+In the log, "Activity AD" occurs after "Activity Y" and before "Activity B"

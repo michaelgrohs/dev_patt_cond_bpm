@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 5" occurs after "Approve SC" and before "Create PO"
+In the log, "Random activity 5" occurs after "Approve PO 1" and before "Create PO"

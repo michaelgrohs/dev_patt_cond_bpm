@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 3" occurs after the initial state and before "Create SC"
+In the log, "Random activity 10" occurs after "Approve PO 1" and before "Release PO"

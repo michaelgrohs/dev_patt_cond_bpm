@@ -1,0 +1,8 @@
+#statements:
+6
+In the model, "Activity AL" occurs after "Activity AH" instead of "Activity AG"
+In the model, "Activity AO" occurs after "Activity AL" instead of "Activity AL"
+In the model, "Activity AJ" occurs after "Activity AG" and before "Activity AH"
+In the log, "Activity AI" occurs after "Activity AO" and before "Activity AH"
+In the model, "Activity AK" occurs after "Activity AG" and before "Activity AH"
+In the model, "Activity AN" occurs after "Activity AL" and before "Activity AM"

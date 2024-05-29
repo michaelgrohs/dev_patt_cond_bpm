@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Create PO" occurs after "Approve SC" instead of "Create SC"
+In the log, "Approve PO 1" occurs after "Create PO" and before "Purchase SC"

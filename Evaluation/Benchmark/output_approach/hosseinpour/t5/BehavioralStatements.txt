@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Approve PR" occurs after "Create PR" and before "Create PO"
+In the model, "Pay" occurs after "Invoice Receipt" and before the end state

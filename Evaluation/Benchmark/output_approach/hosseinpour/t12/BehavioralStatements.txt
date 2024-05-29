@@ -1,0 +1,21 @@
+#statements:
+19
+In the log, after "Create PR", "Approve PR" is substituted by "Modify PO"
+In the log, after "Modify PO", "Approve PR" is substituted by "Modify PO"
+In the log, after "Modify PO", "Create PO" is substituted by "Modify PO"
+In the log, after "Modify PO", "Sign PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_1fv5vae]"
+In the log, after "Sign PO", "Release PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_1fv5vae]"
+In the log, after "Modify PO", "Sign PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_0alz9zj]"
+In the log, after "Sign PO", "Release PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_0alz9zj]"
+In the log, after "Sign PO", "Create PO" is substituted by "Release PO"
+In the log, after "Release PO", "Sign PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_1scn6jh,exi_Gateway_1s1y1ba]"
+In the log, after "Sign PO", "Release PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_1scn6jh,exi_Gateway_1s1y1ba]"
+In the log, after "Create PR", "Create PO" is substituted by "Modify PO"
+In the log, after "Sign PO", "Release PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_033vwyd]"
+In the log, after "Release PO", "Sign PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_033vwyd]"
+In the log, after "Modify PO", "Sign PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_1x67c3u]"
+In the log, after "Sign PO", "Release PO" occurs before task "Release PO", while in the model they are mutually exclusive after marking "[ent_Activity_1x67c3u]"
+In the log, after "Sign PO", "Approve PR" is substituted by "Release PO"
+In the model, "Create PO" occurs after "Approve PR" and before "Sign PO"
+In the log, after "Modify PO", "Sign PO" is repeated while in the model it is not
+In the log, after "Sign PO", "Release PO" is repeated while in the model it is not

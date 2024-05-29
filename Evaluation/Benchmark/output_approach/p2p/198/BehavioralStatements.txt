@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Approve PO 3" occurs after "Approve SC" and before "Release PO"
+In the model, "Release PO" occurs after "Approve PO 2" instead of "Approve PO 3"

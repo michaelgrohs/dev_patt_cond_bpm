@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 1" occurs after "Create PR" and before "Release PR"
+In the log, "Random activity 11" occurs after "Post GR" and before "Post IR"

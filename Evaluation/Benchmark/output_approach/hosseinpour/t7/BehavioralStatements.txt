@@ -1,0 +1,8 @@
+#statements:
+6
+In the log, after "Create PO", "Sign PO" is substituted by "Create PR"
+In the log, after "Create PO", "Create PR" occurs before task "Create PR", while in the model they are mutually exclusive after marking "[ent_Activity_033vwyd]"
+In the log, after "Create PO", "Release PO" is substituted by "Create PR"
+In the model, "Release PO" occurs after "Sign PO" and before "Goods Receipt"
+In the log, after "Create PO", "Create PR" occurs before task "Create PR", while in the model they are mutually exclusive after marking "[ent_Activity_1fv5vae]"
+In the model, "Sign PO" occurs after "Create PO" and before "Release PO"

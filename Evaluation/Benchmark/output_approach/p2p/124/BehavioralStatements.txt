@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 8" occurs after "Create PO" and before "Approve PO 1"
+In the log, "Random activity 8" occurs after "Release PO" and before "Approve PO 1"

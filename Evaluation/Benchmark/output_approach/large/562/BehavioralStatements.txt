@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, after "Activity AF", "Activity AG" occurs before task "Activity AC", while in the model they are mutually exclusive after marking "[ent_element2802]"
+In the model, "Activity AG" occurs after "Activity AC" instead of "Activity AF"

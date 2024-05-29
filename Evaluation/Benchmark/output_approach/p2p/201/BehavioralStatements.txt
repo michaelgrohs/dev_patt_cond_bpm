@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Approve PO 2" occurs after the initial state and before "Approve PO 3"
+In the log, "Approve PO 3" occurs after "Approve PO 2" and before "Create SC"

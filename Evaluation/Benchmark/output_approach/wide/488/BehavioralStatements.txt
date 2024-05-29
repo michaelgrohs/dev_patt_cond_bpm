@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Random activity 10" occurs after "Activity A" and before "Activity N"
+In the log, "Random activity 5" occurs after "Activity AE" and before "Activity AF"

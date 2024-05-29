@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text></text>
+    </name>
+    <page id="n0">
+      <place id="ent_Activity_033vwyd">
+        <name>
+          <text>ent_Activity_033vwyd</text>
+        </name>
+      </place>
+      <place id="ent_Activity_1scn6jh">
+        <name>
+          <text>ent_Activity_1scn6jh</text>
+        </name>
+      </place>
+      <place id="ent_Activity_0alz9zj">
+        <name>
+          <text>ent_Activity_0alz9zj</text>
+        </name>
+      </place>
+      <place id="ent_Activity_1x67c3u">
+        <name>
+          <text>ent_Activity_1x67c3u</text>
+        </name>
+      </place>
+      <place id="sink">
+        <name>
+          <text>sink</text>
+        </name>
+      </place>
+      <place id="exi_Gateway_1s1y1ba">
+        <name>
+          <text>exi_Gateway_1s1y1ba</text>
+        </name>
+      </place>
+      <place id="Flow_1q37l29">
+        <name>
+          <text>Flow_1q37l29</text>
+        </name>
+      </place>
+      <place id="ent_Gateway_0s72sut">
+        <name>
+          <text>ent_Gateway_0s72sut</text>
+        </name>
+      </place>
+      <place id="ent_Activity_1fv5vae">
+        <name>
+          <text>ent_Activity_1fv5vae</text>
+        </name>
+      </place>
+      <place id="source">
+        <name>
+          <text>source</text>
+        </name>
+        <initialMarking>
+          <text>1</text>
+        </initialMarking>
+      </place>
+      <transition id="Activity_0o2o4k3">
+        <name>
+          <text>Create PR</text>
+        </name>
+      </transition>
+      <transition id="Activity_1x67c3u">
+        <name>
+          <text>Approve PR</text>
+        </name>
+      </transition>
+      <transition id="Activity_00oibi4">
+        <name>
+          <text>Service Receipt</text>
+        </name>
+      </transition>
+      <transition id="Activity_0stxn17">
+        <name>
+          <text>Pay</text>
+        </name>
+      </transition>
+      <transition id="Activity_1fv5vae">
+        <name>
+          <text>Sign PO</text>
+        </name>
+      </transition>
+      <transition id="Activity_1scn6jh">
+        <name>
+          <text>Invoice Receipt</text>
+        </name>
+      </transition>
+      <transition id="Activity_033vwyd">
+        <name>
+          <text>Release PO</text>
+        </name>
+      </transition>
+      <transition id="Activity_1y7cx0i">
+        <name>
+          <text>Goods Receipt</text>
+        </name>
+      </transition>
+      <transition id="Activity_0alz9zj">
+        <name>
+          <text>Create PO</text>
+        </name>
+      </transition>
+      <arc id="5589664768" source="Activity_00oibi4" target="ent_Gateway_0s72sut"/>
+      <arc id="5589664288" source="Activity_1y7cx0i" target="ent_Gateway_0s72sut"/>
+      <arc id="5589792320" source="ent_Activity_0alz9zj" target="Activity_0alz9zj"/>
+      <arc id="5589664384" source="Activity_0stxn17" target="sink"/>
+      <arc id="5589665920" source="Flow_1q37l29" target="Activity_0stxn17"/>
+      <arc id="5589666016" source="exi_Gateway_1s1y1ba" target="Activity_00oibi4"/>
+      <arc id="5589794528" source="ent_Activity_1x67c3u" target="Activity_1x67c3u"/>
+      <arc id="5589665824" source="ent_Gateway_0s72sut" target="Activity_0stxn17"/>
+      <arc id="5589664096" source="Activity_1fv5vae" target="ent_Activity_033vwyd"/>
+      <arc id="5589794048" source="ent_Activity_1fv5vae" target="Activity_1fv5vae"/>
+      <arc id="5589770496" source="ent_Activity_1scn6jh" target="Activity_1scn6jh"/>
+      <arc id="5589665632" source="exi_Gateway_1s1y1ba" target="Activity_1y7cx0i"/>
+      <arc id="5589793568" source="ent_Activity_033vwyd" target="Activity_033vwyd"/>
+      <arc id="5589665056" source="Activity_033vwyd" target="ent_Activity_1scn6jh"/>
+      <arc id="5589665440" source="Activity_0alz9zj" target="ent_Activity_1fv5vae"/>
+      <arc id="5589665152" source="Activity_033vwyd" target="exi_Gateway_1s1y1ba"/>
+      <arc id="5589664192" source="Activity_0o2o4k3" target="ent_Activity_1x67c3u"/>
+      <arc id="5589665728" source="source" target="Activity_0o2o4k3"/>
+      <arc id="5589707744" source="Activity_1scn6jh" target="Flow_1q37l29"/>
+      <arc id="5589665248" source="Activity_1x67c3u" target="ent_Activity_0alz9zj"/>
+    </page>
+    <finalmarkings>
+      <marking>
+        <place idref="sink">
+          <text>1</text>
+        </place>
+      </marking>
+    </finalmarkings>
+  </net>
+</pnml>

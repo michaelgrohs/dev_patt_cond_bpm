@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="SkipSequence" />
+		<string key="concept:name" value="819" />
+		<int key="id" value="175" />
+		<event>
+			<string key="concept:name" value="Create PR" />
+			<date key="time:timestamp" value="2010-08-01T01:56:00" />
+			<string key="org:resource" value="Lisa" />
+			<int key="id" value="175" />
+		</event>
+		<event>
+			<string key="concept:name" value="Release PR" />
+			<date key="time:timestamp" value="2010-08-01T01:58:00" />
+			<string key="org:resource" value="Wilton" />
+			<int key="id" value="175" />
+		</event>
+		<event>
+			<string key="concept:name" value="Create PO" />
+			<date key="time:timestamp" value="2010-08-01T01:59:00" />
+			<string key="org:resource" value="Ronald" />
+			<int key="id" value="175" />
+		</event>
+		<event>
+			<string key="concept:name" value="Post IR" />
+			<date key="time:timestamp" value="2010-08-01T02:00:00" />
+			<string key="org:resource" value="Brian" />
+			<int key="id" value="175" />
+		</event>
+		<event>
+			<string key="concept:name" value="Pay" />
+			<date key="time:timestamp" value="2010-08-01T02:02:00" />
+			<string key="org:resource" value="Lannie" />
+			<int key="id" value="175" />
+		</event>
+	</trace>
+</log>

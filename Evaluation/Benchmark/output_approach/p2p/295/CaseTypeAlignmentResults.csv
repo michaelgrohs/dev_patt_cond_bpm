@@ -1,0 +1,5 @@
+Alignments per Case Type:
+Case Type, Represented number of traces,alignment(task) #1,alignment(task) #2,alignment(task) #3,...
+
+1,1,LMGOOD( Create SC),LMGOOD( Purchase SC),LMGOOD( Approve SC),MREAL( Create PO),MREAL( Release PO),LMGOOD( Post GR),LMGOOD( Post IR),L( Create PO),L( Release PO),LMGOOD( Pay)
+1,1,LMGOOD( Create SC),LMGOOD( Purchase SC),LMGOOD( Approve SC),L( Post GR),L( Post IR),LMGOOD( Create PO),LMGOOD( Release PO),MREAL( Post GR),MREAL( Post IR),LMGOOD( Pay)

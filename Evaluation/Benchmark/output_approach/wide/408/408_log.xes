@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Insert" />
+		<string key="concept:name" value="3183" />
+		<int key="id" value="408" />
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-01-21T07:01:00" />
+			<string key="org:resource" value="Della" />
+			<int key="id" value="408" />
+		</event>
+		<event>
+			<string key="concept:name" value="Random activity 9" />
+			<date key="time:timestamp" value="2010-01-21T07:03:00" />
+			<string key="org:resource" value="Random user 34" />
+			<int key="id" value="408" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity N" />
+			<date key="time:timestamp" value="2010-01-21T07:04:00" />
+			<string key="org:resource" value="Roy" />
+			<int key="id" value="408" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AE" />
+			<date key="time:timestamp" value="2010-01-21T07:06:00" />
+			<string key="org:resource" value="Hoyt" />
+			<int key="id" value="408" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity AF" />
+			<date key="time:timestamp" value="2010-01-21T07:07:00" />
+			<string key="org:resource" value="Rossie" />
+			<int key="id" value="408" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="2010-01-21T07:09:00" />
+			<string key="org:resource" value="Jamika" />
+			<int key="id" value="408" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-01-21T07:10:00" />
+			<string key="org:resource" value="Gema" />
+			<int key="id" value="408" />
+		</event>
+	</trace>
+</log>

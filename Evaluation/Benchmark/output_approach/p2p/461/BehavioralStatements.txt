@@ -1,0 +1,12 @@
+#statements:
+10
+In the log, after "Approve PO 2", "Approve PO 3" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5456]"
+In the log, after "Approve PO 3", "Approve PO 1" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5455]"
+In the log, after "Approve PO 3", "Approve PO 1" occurs before task "Approve PO 2", while in the model they are mutually exclusive after marking "[exi_element5455]"
+In the log, after "Create PO", "Approve PO 1" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Approve PO 1", "Approve PO 2" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Approve PO 2", "Approve PO 3" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Approve PO 3", "Approve PO 1" occurs before task "Approve PO 3", while in the model they are mutually exclusive after marking "[exi_element5455]"
+In the log, after "Approve PO 1", "Approve PO 2" is repeated while in the model it is not
+In the log, after "Approve PO 2", "Approve PO 3" is repeated while in the model it is not
+In the log, after "Create PO", "Approve PO 1" is repeated while in the model it is not

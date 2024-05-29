@@ -1,0 +1,6 @@
+#statements:
+4
+In the log, "Approve PO 1" occurs after "Create PO" and before "Approve PO 2"
+In the log, "Approve PO 2" occurs after "Approve PO 1" and before "Post IR"
+In the model, "Release PO" occurs after "Approve PO 2" instead of "Approve SC"
+In the model, "Post GR" occurs after "Release PO" instead of "Release PO"

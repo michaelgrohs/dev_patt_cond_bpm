@@ -1,0 +1,14 @@
+#statements:
+12
+In the log, after "Approve SC", "Create PO" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[ent_element5452]"
+In the log, after "Create PO", "Approve PO 1" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[ent_element5452]"
+In the log, after "Approve PO 1", "Approve SC" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[ent_element5452]"
+In the log, after "Create PO", "Approve PO 1" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Approve PO 1", "Approve SC" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Approve SC", "Create PO" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[exi_element5454]"
+In the log, after "Purchase SC", "Approve SC" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[ent_element5444]"
+In the log, after "Approve SC", "Create PO" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[ent_element5444]"
+In the log, after "Create PO", "Approve PO 1" occurs before task "Approve PO 1", while in the model they are mutually exclusive after marking "[ent_element5444]"
+In the log, after "Purchase SC", "Approve SC" is repeated while in the model it is not
+In the log, after "Approve SC", "Create PO" is repeated while in the model it is not
+In the log, after "Create PO", "Approve PO 1" is repeated while in the model it is not

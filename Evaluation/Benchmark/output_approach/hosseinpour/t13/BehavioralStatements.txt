@@ -1,0 +1,6 @@
+#statements:
+4
+In the log, after "Sign PO", "Pay" occurs before task "Pay", while in the model they are mutually exclusive after marking "[ent_Activity_033vwyd]"
+In the log, after "Sign PO", "Release PO" is substituted by "Pay"
+In the model, "Release PO" occurs after "Sign PO" and before "Goods Receipt"
+In the log, after "Sign PO", "Pay" is repeated while in the model it is not

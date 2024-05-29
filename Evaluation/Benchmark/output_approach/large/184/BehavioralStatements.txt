@@ -1,0 +1,6 @@
+#statements:
+4
+In the model, "Activity AB" occurs after "Activity A" and before "Activity AF"
+In the model, "Activity AF" occurs after "Activity AB" and before "Activity AC"
+In the model, "Activity AD" occurs after "Activity AB" and before "Activity AC"
+In the model, "Activity AE" occurs after "Activity AB" and before "Activity AC"

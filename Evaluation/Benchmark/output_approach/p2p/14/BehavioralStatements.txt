@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Release PO" occurs after "Create PO" instead of "Create SC"
+In the model, "Post GR" occurs after "Release PO" instead of "Release PO"

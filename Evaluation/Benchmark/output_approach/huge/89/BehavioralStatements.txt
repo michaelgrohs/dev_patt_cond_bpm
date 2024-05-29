@@ -1,0 +1,12 @@
+#statements:
+10
+In the log, "Activity AF" occurs after "Activity O" and before "Activity AD"
+In the model, "Activity AD" occurs after "Activity AG" instead of "Activity AF"
+In the model, "Activity AG" occurs after "Activity AC" and before "Activity AD"
+In the log, after "Activity R", "Activity V" is substituted by "Activity AC"
+In the model, "Activity AF" occurs after "Activity AC" instead of "Activity O"
+In the model, "Activity AD" occurs after "Activity AF" instead of "Activity AF"
+In the model, "Activity AD" occurs after "Activity AE" instead of "Activity AF"
+In the model, "Activity AE" occurs after "Activity AC" and before "Activity AD"
+In the model, "Activity AD" occurs after "Activity AH" instead of "Activity AF"
+In the model, "Activity AH" occurs after "Activity AC" and before "Activity AD"

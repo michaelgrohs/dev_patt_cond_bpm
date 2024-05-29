@@ -1,0 +1,5 @@
+#statements:
+3
+In the log, after "Approve PO 1", "Approve PO 2" is repeated while in the model it is not
+In the log, after "Approve PO 2", "Approve PO 3" is repeated while in the model it is not
+In the log, after "Approve PO 3", "Release PO" is repeated while in the model it is not

@@ -1,0 +1,4 @@
+#statements:
+2
+In the log, "Approve PO 1" occurs after "Purchase SC" and before "Approve PO 2"
+In the log, "Approve PO 2" occurs after "Approve PO 1" and before "Approve SC"

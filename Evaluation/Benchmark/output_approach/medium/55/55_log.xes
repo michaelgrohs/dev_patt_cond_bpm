@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<log xes.version="1849-2016" xes.features="nested-attributes" xmlns="http://www.xes-standard.org/">
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext" />
+	<extension name="Time" prefix="time" uri="http://www.xes-standard.org/time.xesext" />
+	<extension name="Organizational" prefix="org" uri="http://www.xes-standard.org/org.xesext" />
+	<string key="origin" value="csv" />
+	<trace>
+		<string key="label" value="Early" />
+		<string key="concept:name" value="289" />
+		<int key="id" value="55" />
+		<event>
+			<string key="concept:name" value="Activity X" />
+			<date key="time:timestamp" value="2010-02-01T20:21:00" />
+			<string key="org:resource" value="Pam" />
+			<int key="id" value="55" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity V" />
+			<date key="time:timestamp" value="2010-02-01T20:22:00" />
+			<string key="org:resource" value="Maryellen" />
+			<int key="id" value="55" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity A" />
+			<date key="time:timestamp" value="2010-02-01T20:24:00" />
+			<string key="org:resource" value="Keven" />
+			<int key="id" value="55" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity O" />
+			<date key="time:timestamp" value="2010-02-01T20:25:00" />
+			<string key="org:resource" value="Brian" />
+			<int key="id" value="55" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity U" />
+			<date key="time:timestamp" value="2010-02-01T20:26:00" />
+			<string key="org:resource" value="Velda" />
+			<int key="id" value="55" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity P" />
+			<date key="time:timestamp" value="2010-02-01T20:28:00" />
+			<string key="org:resource" value="Ryan" />
+			<int key="id" value="55" />
+		</event>
+		<event>
+			<string key="concept:name" value="Activity B" />
+			<date key="time:timestamp" value="2010-02-01T20:29:00" />
+			<string key="org:resource" value="Alpha" />
+			<int key="id" value="55" />
+		</event>
+	</trace>
+</log>

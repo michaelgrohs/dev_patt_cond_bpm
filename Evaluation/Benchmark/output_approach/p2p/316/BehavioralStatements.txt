@@ -1,0 +1,4 @@
+#statements:
+2
+In the model, "Release PR" occurs after "Create PR" and before "Create PO"
+In the model, "Create PO" occurs after "Release PR" and before "Release PO"
