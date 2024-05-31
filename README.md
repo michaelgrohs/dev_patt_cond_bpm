@@ -3,7 +3,7 @@ This repository is supposed to help to reproduce the work proposed in the paper 
 
 The file "DevPatterns.ipynb" contains all code used to implement and evaluate the proposed approach. The function "discover_patterns" executes the full approach whereas the function "discover_patterns_wo_cf" executes the approach without adjusting the cost function.
 
-The folder "Evaluation" contains all evaluation results displayed in the paper. This folder contains all event logs and to-be models. 
+The folder "Evaluation" contains all evaluation results displayed in the paper. This folder contains all event logs, to-be models, and resources to reproduce the benchmark. 
 
 # Details on function findEquivSeq
 As mentioned in the paper, we give more details on the function findEquivSeq, which checks whether a projection of the inverse moves of a sequence seq<sub>1</sub> can be detected in a candidate sequence seq'<sub>3</sub>. If so, it returns this projection seq<sub>3</sub> and an empty sequence otherwise. The functions' logic is illustrated below. 
@@ -47,7 +47,7 @@ If all moves are deleted from seq<sub>1</sub> in these iterations, a direct or i
 
 # Benchmark 
 We benchmark our approach against García-Bañuelos et. al. [1]. The approach is implemented as a standalone Java tool ProConformance and an Apromore plugin Compare. The plugin is not available anymore which is why we use an updated version of the ProConformance implementation. We note that the execution of the original version of the standalone tool was not possible, a problem also found by another study [2].
-The provided "ProConformance.jar" is supposed to return log-level feedback which is not comparable to our approach aming for trace-level feedback. To obtain trace-level feedback comparable to our approach, we check which traces deviate and store an event log consisting of one trace only per deviating variant. Then, we apply the implementation to this event log and map the detected deviation patterns to the traces without adjusting the approach.
+The provided "ProConformance.jar" is supposed to return log-level feedback which is not comparable to our approach aming for trace-level feedback. To obtain trace-level feedback comparable to our approach, we check which traces deviate and store an event log consisting of one trace only per deviating variant. Then, we apply the implementation to this event log and map the detected deviation patterns to the traces without adjusting the approach. To reproduce the results, use the file "garica_benchmark.ipynb".
 
 We want to stress conceptual differences:
 1. Different pattern types used:
@@ -72,20 +72,22 @@ As mentioned in the paper, the evaluation results of the 8 BINet logs are aggreg
 
 To illustrate the time needed for the discovery of deviation patterns in different processes, we show the time needed for data sets used in the paper.
 
-| Log              |                            | Time in seconds |
-|------------------|----------------------------|-----------------|
-| Hosseinpour & Jans |                          | 11.80         |
-| BINet            | Gigantic                   | 29.54           |
-|                  | Huge                       | 34.30           |
-|                  | Large                      | 47.30           |
-|                  | Medium                     | 26.94           |
-|                  | P2P                        | 21.64           |
-|                  | Paper                      | 22.55           |
-|                  | Small                      | 25.24           |
-|                  | Wide                       | 20.22           |
-| BPIC 12          | A_                         | 2.87            |
+| Log              |                            | Time in seconds |        |                  
+|                  |                            | Our approach    | [1]    |
+|------------------|----------------------------|-----------------|--------|
+| Hosseinpour & Jans |                          | 11.80           |   2.20 |
+| BINet            | Gigantic                   | 29.54           |  49.94 |
+|                  | Huge                       | 34.30           |  74.95 |
+|                  | Large                      | 47.30           | 112.83 |
+|                  | Medium                     | 26.94           |  60.56 |
+|                  | P2P                        | 21.64           |  78.66 |
+|                  | Paper                      | 22.55           |  60.97 |
+|                  | Small                      | 25.24           |  93.09 |
+|                  | Wide                       | 20.22           |  45.05 |
+| BPIC 12          | A_                         | 2.87            |        |
 
 
 # References
 [1] García-Bañuelos, L., Van Beest, N., Dumas, M., La Rosa, M., Mertens, W.: Complete and interpretable conformance checking of business processes. Trans Softw Eng 44(3), 262–290 (2017)
+
 [2] Fahland, D., Reproduction of Experimental Evaluations in Process Mining, Seminar TUE
