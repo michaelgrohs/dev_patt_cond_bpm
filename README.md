@@ -72,9 +72,9 @@ As mentioned in the paper, the evaluation results of the 8 BINet logs are aggreg
 
 To illustrate the time needed for the discovery of deviation patterns in different processes, we show the time needed for data sets used in the paper.
 
-| Log              |                            | Time in seconds |        |                  
+| Log              |                            | Time in seconds |        |
+|------------------|----------------------------|-----------------|--------|                 
 |                  |                            | Our approach    | [1]    |
-|------------------|----------------------------|-----------------|--------|
 | Hosseinpour & Jans |                          | 11.80           |   2.20 |
 | BINet            | Gigantic                   | 29.54           |  49.94 |
 |                  | Huge                       | 34.30           |  74.95 |
